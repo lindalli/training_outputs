@@ -95,13 +95,35 @@ def write_to_emissions_file(emissions_file, train_tags_file, train_file):
 # COMPARE: do we count the line numbers as unique
 #           LAPLACE??
 
+'''laplace-tag-unigrams.txt'''
+def write_laplace_tag_unigram(laplace_tag_unigram_file, train_tags_file, train_file):
+    laplace_tag_unigram = open(laplace_tag_unigram_file, 'w')
+    N = number_of_token(train_file)
+    tags = []
+    #TAGS
+    with open(train_tags_file) as f:
+        for line in f:
+            tags.append(line[4:line.index("/") - 2])
+    count_tags = Counter(tags)
+
+    for k,v in count_tags.items():
+        mle = (v+1)/(v + 1 + N)
+        line = str(k) + ", " + str(mle) + "\n"
+        laplace_tag_unigram.write(line)
+
+#COMPARE: check unigram laplace formula
 
 '''Program Execution'''
 train_file = "/Users/linda/PycharmProjects/Homework-2/train.txt"
 train_tags_file = "/Users/linda/PycharmProjects/Homework-2/train_tags.txt"
 transitions_file = "/Users/linda/PycharmProjects/Homework-2/transitions.txt"
 emissions_file = "/Users/linda/PycharmProjects/Homework-2/emissions.txt"
+laplace_tag_unigram_file = "/Users/linda/PycharmProjects/Homework-2/laplace-tag-unigrams.txt"
 
 get_tags(train_file, train_tags_file)
+#PART1.1
 compute_transition_MLE(train_tags_file, transitions_file)
+#PART1.2
 write_to_emissions_file(emissions_file,train_tags_file, train_file)
+#PART1.3
+write_laplace_tag_unigram(laplace_tag_unigram_file, train_tags_file, train_file)
