@@ -13,6 +13,13 @@ def get_word_pair_count(word_pairs):
     for k, v in word_pair_count.items():
         print(k, " ", v)
 
+def number_of_token(file):
+    n = 0
+    with open(file) as f:
+        count = Counter(f.read().split())
+        for k, v in count.items():
+            n += v
+    return n
 
 '''transitions.txt'''
 def get_tags(train_file, train_tags_file):
@@ -57,12 +64,44 @@ def compute_transition_MLE(train_tags_file, transitions_file):
 #          McGrawHill? Tag Counts?
 
 '''emissions.txt'''
+def write_to_emissions_file(emissions_file, train_tags_file, train_file):
+    emissions = open(emissions_file, 'w')
+    N = number_of_token(train_file)
+    tags = []
+    word_and_tags = []
 
+    #TAGS
+    with open(train_tags_file) as f:
+        for line in f:
+            tags.append(line[4:line.index("/") - 2])
+    count_tags = Counter(tags)
+
+    #WORD AND TAG
+    train = open(train_file)
+    for word in train.read().split():
+        word_and_tags.append(word)
+    count_word_and_tags = Counter(word_and_tags)
+
+    for k,v in count_tags.items():
+        for i,j in count_word_and_tags.items():
+            if k in i:
+            #prints: TAG, WORD_AND_TAG, MLE, LAPLACE
+                mle = j/v
+                laplace = (j+1)/(j+1+N)
+
+                line = str(k) + ", " + str(i) + ", " + str(mle) + ", " + str(laplace) + "\n"
+                emissions.write(line)
+
+# COMPARE: do we count the line numbers as unique
+#           LAPLACE??
 
 
 '''Program Execution'''
 train_file = "/Users/linda/PycharmProjects/Homework-2/train.txt"
 train_tags_file = "/Users/linda/PycharmProjects/Homework-2/train_tags.txt"
 transitions_file = "/Users/linda/PycharmProjects/Homework-2/transitions.txt"
+emissions_file = "/Users/linda/PycharmProjects/Homework-2/emissions.txt"
+
 get_tags(train_file, train_tags_file)
 compute_transition_MLE(train_tags_file, transitions_file)
+write_to_emissions_file(emissions_file,train_tags_file, train_file)
