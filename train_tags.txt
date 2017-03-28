@@ -1,4 +1,3 @@
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> , </s>
@@ -17,7 +16,6 @@
 <s> NNP </s>
 <s> CD </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> VBZ </s>
@@ -31,7 +29,6 @@
 <s> VBG </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> , </s>
@@ -59,7 +56,6 @@
 <s> JJ </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NN </s>
 <s> IN </s>
@@ -101,7 +97,6 @@
 <s> -NONE- </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NN </s>
 <s> NN </s>
@@ -137,7 +132,6 @@
 <s> -NONE- </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> , </s>
@@ -165,7 +159,6 @@
 <s> IN </s>
 <s> CD </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> JJ </s>
 <s> NNS </s>
@@ -203,7 +196,6 @@
 <s> DT </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NNP </s>
 <s> NN </s>
@@ -216,7 +208,6 @@
 <s> JJ </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> PRP </s>
 <s> VBP </s>
 <s> VBG </s>
@@ -233,7 +224,6 @@
 <s> JJ </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> EX </s>
 <s> VBZ </s>
 <s> DT </s>
@@ -244,7 +234,6 @@
 <s> RB </s>
 <s> . </s>
 <s> '' </s>
-<s>  </s>
 <s> DT </s>
 <s> NNP </s>
 <s> CC </s>
@@ -267,7 +256,6 @@
 <s> NNP </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> `` </s>
 <s> PRP </s>
 <s> VBP </s>
@@ -294,7 +282,6 @@
 <s> NNP </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> VBD </s>
@@ -318,7 +305,6 @@
 <s> NNP </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NNP </s>
 <s> NN </s>
@@ -357,7 +343,6 @@
 <s> IN </s>
 <s> CD </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> CD </s>
 <s> TO </s>
@@ -380,7 +365,6 @@
 <s> -NONE- </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> CD </s>
 <s> NNS </s>
@@ -405,7 +389,6 @@
 <s> VBN </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> CD </s>
 <s> IN </s>
 <s> DT </s>
@@ -423,7 +406,6 @@
 <s> VBN </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NN </s>
 <s> IN </s>
@@ -451,7 +433,6 @@
 <s> -NONE- </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> `` </s>
 <s> DT </s>
 <s> NN </s>
@@ -476,7 +457,6 @@
 <s> NNP </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NN </s>
 <s> IN </s>
@@ -517,7 +497,6 @@
 <s> -NONE- </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NN </s>
 <s> , </s>
@@ -545,7 +524,6 @@
 <s> NN </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NN </s>
 <s> RB </s>
@@ -592,7 +570,6 @@
 <s> -NONE- </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NNP </s>
 <s> VBZ </s>
@@ -648,7 +625,6 @@
 <s> IN </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> RBR </s>
 <s> JJ </s>
 <s> NN </s>
@@ -671,7 +647,6 @@
 <s> -NONE- </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> NNP </s>
 <s> , </s>
@@ -690,7 +665,6 @@
 <s> IN </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> CD </s>
 <s> , </s>
@@ -706,7 +680,6 @@
 <s> VBN </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> CD </s>
 <s> NNS </s>
@@ -730,7 +703,6 @@
 <s> DT </s>
 <s> CD </s>
 <s> . </s>
-<s>  </s>
 <s> NNS </s>
 <s> IN </s>
 <s> DT </s>
@@ -747,7 +719,6 @@
 <s> -NONE- </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> NNS </s>
 <s> VBD </s>
 <s> JJ </s>
@@ -784,7 +755,6 @@
 <s> VB </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> NNS </s>
 <s> VBD </s>
 <s> `` </s>
@@ -810,7 +780,6 @@
 <s> DT </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> `` </s>
 <s> EX </s>
 <s> VBZ </s>
@@ -843,7 +812,6 @@
 <s> CC </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> `` </s>
 <s> CC </s>
 <s> PRP </s>
@@ -860,7 +828,6 @@
 <s> NNS </s>
 <s> IN </s>
 <s> . </s>
-<s>  </s>
 <s> PRP </s>
 <s> VBZ </s>
 <s> DT </s>
@@ -871,7 +838,6 @@
 <s> NN </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> NNS </s>
 <s> IN </s>
 <s> JJ </s>
@@ -894,7 +860,6 @@
 <s> NN </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> JJ </s>
 <s> JJ </s>
@@ -932,7 +897,6 @@
 <s> VBD </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> NN </s>
 <s> NNS </s>
 <s> VBP </s>
@@ -949,7 +913,6 @@
 <s> DT </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> JJ </s>
 <s> NN </s>
 <s> IN </s>
@@ -976,7 +939,6 @@
 <s> NNP </s>
 <s> POS </s>
 <s> . </s>
-<s>  </s>
 <s> JJR </s>
 <s> NNS </s>
 <s> VBP </s>
@@ -1002,7 +964,6 @@
 <s> JJR </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> JJR </s>
 <s> NNS </s>
 <s> VBP </s>
@@ -1022,7 +983,6 @@
 <s> NNS </s>
 <s> RB </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> JJ </s>
 <s> NN </s>
@@ -1061,7 +1021,6 @@
 <s> CD </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> RB </s>
 <s> , </s>
 <s> VBD </s>
@@ -1096,7 +1055,6 @@
 <s> NN </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NN </s>
 <s> IN </s>
@@ -1121,7 +1079,6 @@
 <s> CD </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> JJ </s>
 <s> NNS </s>
@@ -1138,7 +1095,6 @@
 <s> NN </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> NNS </s>
 <s> IN </s>
 <s> DT </s>
@@ -1162,7 +1118,6 @@
 <s> CD </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> RB </s>
 <s> , </s>
 <s> NN </s>
@@ -1184,7 +1139,6 @@
 <s> JJS </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> JJ </s>
 <s> NN </s>
@@ -1197,7 +1151,6 @@
 <s> CD </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> NNP </s>
@@ -1227,7 +1180,6 @@
 <s> NN </s>
 <s> JJR </s>
 <s> . </s>
-<s>  </s>
 <s> PRP </s>
 <s> VBZ </s>
 <s> RB </s>
@@ -1248,7 +1200,6 @@
 <s> PRP$ </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> JJ </s>
 <s> JJ </s>
@@ -1267,7 +1218,6 @@
 <s> CD </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> JJ </s>
 <s> JJ </s>
@@ -1296,7 +1246,6 @@
 <s> CD </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> , </s>
@@ -1326,7 +1275,6 @@
 <s> DT </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> PRP </s>
 <s> VBZ </s>
 <s> NNP </s>
@@ -1344,7 +1292,6 @@
 <s> -NONE- </s>
 <s> VBD </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> VBZ </s>
@@ -1357,7 +1304,6 @@
 <s> NN </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> NNP </s>
@@ -1387,7 +1333,6 @@
 <s> CD </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NN </s>
 <s> VBG </s>
@@ -1408,7 +1353,6 @@
 <s> IN </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> NNP </s>
@@ -1438,7 +1382,6 @@
 <s> CD </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> VBZ </s>
 <s> DT </s>
@@ -1454,7 +1397,6 @@
 <s> NN </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> , </s>
@@ -1471,7 +1413,6 @@
 <s> NNS </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> PRP </s>
 <s> VBZ </s>
 <s> CD </s>
@@ -1487,7 +1428,6 @@
 <s> CD </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> JJ </s>
 <s> NN </s>
@@ -1508,7 +1448,6 @@
 <s> NN </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> NNP </s>
 <s> VBZ </s>
@@ -1535,7 +1474,6 @@
 <s> -NONE- </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NN </s>
 <s> POS </s>
@@ -1556,7 +1494,6 @@
 <s> CD </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> NN </s>
 <s> -NONE- </s>
 <s> -NONE- </s>
@@ -1577,7 +1514,6 @@
 <s> JJ </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NNP </s>
 <s> VBZ </s>
@@ -1609,7 +1545,6 @@
 <s> DT </s>
 <s> JJS </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NNP </s>
 <s> VBD </s>
@@ -1629,7 +1564,6 @@
 <s> IN </s>
 <s> RB </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> NNP </s>
@@ -1659,7 +1593,6 @@
 <s> NNP </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> DT </s>
 <s> JJ </s>
@@ -1679,7 +1612,6 @@
 <s> NN </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> RB </s>
 <s> , </s>
 <s> NNP </s>
@@ -1700,7 +1632,6 @@
 <s> NNP </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> PRP </s>
 <s> VBD </s>
 <s> VBN </s>
@@ -1715,7 +1646,6 @@
 <s> CD </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> WRB </s>
 <s> PRP </s>
 <s> VBZ </s>
@@ -1748,12 +1678,10 @@
 <s> NNP </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> RB </s>
 <s> DT </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NNP </s>
 <s> NNP </s>
@@ -1772,7 +1700,6 @@
 <s> NN </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> CC </s>
 <s> DT </s>
 <s> NN </s>
@@ -1792,7 +1719,6 @@
 <s> NN </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NN </s>
 <s> , </s>
@@ -1835,7 +1761,6 @@
 <s> VB </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> DT </s>
 <s> VBG </s>
@@ -1868,7 +1793,6 @@
 <s> NNP </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> NNS </s>
 <s> , </s>
@@ -1895,13 +1819,11 @@
 <s> NNP </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> NN </s>
 <s> CC </s>
 <s> NN </s>
 <s> VBD </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> JJ </s>
 <s> NN </s>
@@ -1932,7 +1854,6 @@
 <s> JJ </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NN </s>
 <s> MD </s>
@@ -1949,7 +1870,6 @@
 <s> JJ </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NN </s>
 <s> NN </s>
@@ -1972,7 +1892,6 @@
 <s> NNS </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> RB </s>
 <s> , </s>
 <s> IN </s>
@@ -2002,7 +1921,6 @@
 <s> NN </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> DT </s>
 <s> NN </s>
@@ -2019,7 +1937,6 @@
 <s> CC </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> -NONE- </s>
 <s> DT </s>
 <s> NNS </s>
@@ -2044,7 +1961,6 @@
 <s> CC </s>
 <s> CD </s>
 <s> . </s>
-<s>  </s>
 <s> RB </s>
 <s> NN </s>
 <s> , </s>
@@ -2065,7 +1981,6 @@
 <s> NNS </s>
 <s> RB </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NN </s>
 <s> , </s>
@@ -2080,7 +1995,6 @@
 <s> NN </s>
 <s> RB </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> DT </s>
 <s> NNS </s>
@@ -2119,7 +2033,6 @@
 <s> NN </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> -NONE- </s>
 <s> VBG </s>
 <s> DT </s>
@@ -2144,7 +2057,6 @@
 <s> JJ </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> JJR </s>
 <s> IN </s>
 <s> DT </s>
@@ -2167,7 +2079,6 @@
 <s> JJ </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> CC </s>
 <s> IN </s>
 <s> RB </s>
@@ -2185,7 +2096,6 @@
 <s> IN </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> VBD </s>
@@ -2216,7 +2126,6 @@
 <s> -NONE- </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> JJ </s>
 <s> NNS </s>
 <s> IN </s>
@@ -2250,7 +2159,6 @@
 <s> JJ </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> NNS </s>
 <s> IN </s>
 <s> NNP </s>
@@ -2288,7 +2196,6 @@
 <s> JJ </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> POS </s>
@@ -2316,7 +2223,6 @@
 <s> JJ </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> NN </s>
 <s> NNS </s>
 <s> VBD </s>
@@ -2340,7 +2246,6 @@
 <s> CD </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> DT </s>
 <s> JJ </s>
@@ -2363,7 +2268,6 @@
 <s> DT </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> NNP </s>
 <s> TO </s>
@@ -2389,7 +2293,6 @@
 <s> CD </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> NNS </s>
 <s> VBD </s>
 <s> IN </s>
@@ -2402,7 +2305,6 @@
 <s> CD </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> , </s>
 <s> -NONE- </s>
@@ -2435,7 +2337,6 @@
 <s> IN </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> JJ </s>
 <s> NN </s>
@@ -2467,7 +2368,6 @@
 <s> CD </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> NNS </s>
 <s> WDT </s>
 <s> -NONE- </s>
@@ -2515,7 +2415,6 @@
 <s> NNP </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> , </s>
@@ -2538,7 +2437,6 @@
 <s> IN </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> JJ </s>
 <s> , </s>
@@ -2552,7 +2450,6 @@
 <s> CD </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> NNP </s>
 <s> , </s>
@@ -2605,7 +2502,6 @@
 <s> CD </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> VBZ </s>
@@ -2618,7 +2514,6 @@
 <s> NN </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> VBD </s>
 <s> -NONE- </s>
@@ -2644,7 +2539,6 @@
 <s> NN </s>
 <s> . </s>
 <s> '' </s>
-<s>  </s>
 <s> DT </s>
 <s> NN </s>
 <s> MD </s>
@@ -2683,7 +2577,6 @@
 <s> IN </s>
 <s> CD </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> VBD </s>
@@ -2733,7 +2626,6 @@
 <s> NNP </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> `` </s>
 <s> WP </s>
 <s> -NONE- </s>
@@ -2764,7 +2656,6 @@
 <s> NNP </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NNP </s>
 <s> CC </s>
@@ -2792,7 +2683,6 @@
 <s> CC </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> RB </s>
 <s> , </s>
 <s> NN </s>
@@ -2806,7 +2696,6 @@
 <s> NNS </s>
 <s> RB </s>
 <s> . </s>
-<s>  </s>
 <s> VBG </s>
 <s> TO </s>
 <s> NNP </s>
@@ -2832,7 +2721,6 @@
 <s> CD </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> POS </s>
 <s> NN </s>
@@ -2855,7 +2743,6 @@
 <s> JJ </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> POS </s>
@@ -2871,7 +2758,6 @@
 <s> CD </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> NNP </s>
@@ -2915,7 +2801,6 @@
 <s> JJR </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NN </s>
 <s> VBZ </s>
@@ -2960,7 +2845,6 @@
 <s> NN </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> NNP </s>
@@ -3019,7 +2903,6 @@
 <s> IN </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> VBZ </s>
@@ -3041,7 +2924,6 @@
 <s> , </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> IN </s>
 <s> NNP </s>
@@ -3063,7 +2945,6 @@
 <s> CD </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> , </s>
@@ -3122,7 +3003,6 @@
 <s> VB </s>
 <s> JJ </s>
 <s> . </s>
-<s>  </s>
 <s> `` </s>
 <s> WRB </s>
 <s> PRP </s>
@@ -3154,7 +3034,6 @@
 <s> NN </s>
 <s> IN </s>
 <s> . </s>
-<s>  </s>
 <s> WDT </s>
 <s> VBD </s>
 <s> RB </s>
@@ -3169,7 +3048,6 @@
 <s> VBD </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> RB </s>
@@ -3183,7 +3061,6 @@
 <s> NNP </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NN </s>
 <s> WP </s>
@@ -3216,13 +3093,11 @@
 <s> -NONE- </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> `` </s>
 <s> DT </s>
 <s> VBZ </s>
 <s> NN </s>
 <s> : </s>
-<s>  </s>
 <s> PRP </s>
 <s> VBD </s>
 <s> RB </s>
@@ -3253,7 +3128,6 @@
 <s> -NONE- </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> NNP </s>
@@ -3287,7 +3161,6 @@
 <s> NN </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NN </s>
 <s> IN </s>
@@ -3330,7 +3203,6 @@
 <s> -NONE- </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> `` </s>
 <s> RB </s>
 <s> DT </s>
@@ -3344,7 +3216,6 @@
 <s> VBD </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> RB </s>
 <s> , </s>
 <s> DT </s>
@@ -3372,7 +3243,6 @@
 <s> NNP </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> VBD </s>
 <s> -NONE- </s>
@@ -3414,7 +3284,6 @@
 <s> NN </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> IN </s>
 <s> NNP </s>
@@ -3439,7 +3308,6 @@
 <s> JJ </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> , </s>
@@ -3487,7 +3355,6 @@
 <s> NN </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> PRP </s>
 <s> VBP </s>
 <s> NNP </s>
@@ -3515,7 +3382,6 @@
 <s> JJ </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> NNP </s>
@@ -3550,7 +3416,6 @@
 <s> NN </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NN </s>
 <s> VBD </s>
@@ -3590,7 +3455,6 @@
 <s> JJ </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> NN </s>
 <s> NN </s>
 <s> NNP </s>
@@ -3638,7 +3502,6 @@
 <s> DT </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> VBD </s>
@@ -3670,7 +3533,6 @@
 <s> NNP </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> `` </s>
 <s> DT </s>
 <s> NN </s>
@@ -3694,7 +3556,6 @@
 <s> VBD </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> VBD </s>
@@ -3717,7 +3578,6 @@
 <s> POS </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> JJ </s>
 <s> NN </s>
@@ -3743,7 +3603,6 @@
 <s> DT </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> VBD </s>
@@ -3765,7 +3624,6 @@
 <s> DT </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> CD </s>
 <s> , </s>
@@ -3786,7 +3644,6 @@
 <s> DT </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NNP </s>
 <s> NNP </s>
@@ -3819,7 +3676,6 @@
 <s> NN </s>
 <s> . </s>
 <s> '' </s>
-<s>  </s>
 <s> IN </s>
 <s> NNP </s>
 <s> NNP </s>
@@ -3841,7 +3697,6 @@
 <s> CD </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> $ </s>
 <s> CD </s>
@@ -3861,7 +3716,6 @@
 <s> IN </s>
 <s> CD </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> DT </s>
 <s> VBN </s>
@@ -3892,7 +3746,6 @@
 <s> DT </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> CC </s>
 <s> NN </s>
 <s> NNS </s>
@@ -3914,7 +3767,6 @@
 <s> NNS </s>
 <s> JJ </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NNP </s>
 <s> NNP </s>
@@ -3936,7 +3788,6 @@
 <s> JJ </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NN </s>
 <s> VBZ </s>
@@ -3960,7 +3811,6 @@
 <s> IN </s>
 <s> CD </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> NNP </s>
 <s> , </s>
@@ -3994,7 +3844,6 @@
 <s> CC </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> PRP$ </s>
 <s> NN </s>
@@ -4014,7 +3863,6 @@
 <s> POS </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> JJ </s>
 <s> NN </s>
 <s> , </s>
@@ -4031,7 +3879,6 @@
 <s> CD </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> RB </s>
@@ -4060,7 +3907,6 @@
 <s> CD </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> CC </s>
 <s> NN </s>
 <s> NNS </s>
@@ -4090,7 +3936,6 @@
 <s> CD </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> VBZ </s>
@@ -4111,7 +3956,6 @@
 <s> NNP </s>
 <s> CD </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NN </s>
 <s> VBZ </s>
@@ -4128,7 +3972,6 @@
 <s> NN </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> JJ </s>
 <s> NN </s>
 <s> NNP </s>
@@ -4151,7 +3994,6 @@
 <s> JJ </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> POS </s>
 <s> JJ </s>
@@ -4191,7 +4033,6 @@
 <s> -NONE- </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> JJ </s>
 <s> NN </s>
@@ -4209,7 +4050,6 @@
 <s> IN </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> JJ </s>
 <s> NNS </s>
@@ -4222,7 +4062,6 @@
 <s> IN </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNS </s>
 <s> , </s>
@@ -4238,7 +4077,6 @@
 <s> CD </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> NNS </s>
 <s> IN </s>
 <s> NN </s>
@@ -4254,7 +4092,6 @@
 <s> CD </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> NNS </s>
 <s> IN </s>
 <s> JJ </s>
@@ -4286,7 +4123,6 @@
 <s> NNP </s>
 <s> CD </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNPS </s>
 <s> NNP </s>
@@ -4316,7 +4152,6 @@
 <s> NN </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> JJ </s>
 <s> NN </s>
@@ -4352,7 +4187,6 @@
 <s> -NONE- </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NN </s>
 <s> MD </s>
@@ -4368,7 +4202,6 @@
 <s> NN </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NN </s>
 <s> IN </s>
@@ -4405,7 +4238,6 @@
 <s> NNP </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> RB </s>
 <s> RB </s>
 <s> VBZ </s>
@@ -4431,7 +4263,6 @@
 <s> NN </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> NNS </s>
 <s> VBN </s>
 <s> -NONE- </s>
@@ -4485,7 +4316,6 @@
 <s> VBN </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NNS </s>
 <s> RB </s>
@@ -4523,7 +4353,6 @@
 <s> JJ </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> JJR </s>
 <s> , </s>
 <s> EX </s>
@@ -4549,7 +4378,6 @@
 <s> JJ </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> JJ </s>
 <s> IN </s>
@@ -4588,7 +4416,6 @@
 <s> IN </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> `` </s>
 <s> PRP </s>
 <s> VBD </s>
@@ -4616,7 +4443,6 @@
 <s> DT </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> `` </s>
 <s> DT </s>
 <s> NN </s>
@@ -4641,7 +4467,6 @@
 <s> VBN </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> VBD </s>
@@ -4660,7 +4485,6 @@
 <s> NNP </s>
 <s> . </s>
 <s> '' </s>
-<s>  </s>
 <s> DT </s>
 <s> NNS </s>
 <s> RB </s>
@@ -4683,7 +4507,6 @@
 <s> JJ </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> CC </s>
 <s> NNP </s>
 <s> NNP </s>
@@ -4695,7 +4518,6 @@
 <s> '' </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NN </s>
 <s> IN </s>
@@ -4729,7 +4551,6 @@
 <s> JJ </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> NNS </s>
 <s> VBD </s>
 <s> NN </s>
@@ -4762,7 +4583,6 @@
 <s> JJ </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> `` </s>
 <s> PRP </s>
 <s> VBZ </s>
@@ -4792,7 +4612,6 @@
 <s> , </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> `` </s>
 <s> NNP </s>
 <s> NNP </s>
@@ -4807,7 +4626,6 @@
 <s> VBD </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> `` </s>
 <s> PRP </s>
 <s> RB </s>
@@ -4825,7 +4643,6 @@
 <s> -NONE- </s>
 <s> . </s>
 <s> '' </s>
-<s>  </s>
 <s> IN </s>
 <s> DT </s>
 <s> NN </s>
@@ -4851,7 +4668,6 @@
 <s> NN </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NNP </s>
 <s> NNS </s>
@@ -4884,7 +4700,6 @@
 <s> NN </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> NN </s>
 <s> , </s>
@@ -4904,7 +4719,6 @@
 <s> JJ </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> RB </s>
@@ -4953,7 +4767,6 @@
 <s> IN </s>
 <s> CD </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NN </s>
 <s> RB </s>
@@ -4979,7 +4792,6 @@
 <s> NNP </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> JJ </s>
 <s> NN </s>
@@ -5015,7 +4827,6 @@
 <s> NN </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> NNS </s>
 <s> IN </s>
@@ -5055,7 +4866,6 @@
 <s> CD </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NN </s>
 <s> IN </s>
@@ -5067,7 +4877,6 @@
 <s> VBN </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> RB </s>
 <s> , </s>
 <s> DT </s>
@@ -5083,7 +4892,6 @@
 <s> TO </s>
 <s> VB </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> VBZ </s>
@@ -5094,7 +4902,6 @@
 <s> IN </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> NNS </s>
 <s> VBP </s>
 <s> NNP </s>
@@ -5111,7 +4918,6 @@
 <s> DT </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> IN </s>
 <s> DT </s>
@@ -5149,7 +4955,6 @@
 <s> POS </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> JJ </s>
 <s> NN </s>
 <s> NNS </s>
@@ -5163,7 +4968,6 @@
 <s> NN </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> DT </s>
 <s> NNP </s>
@@ -5207,7 +5011,6 @@
 <s> VBD </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> DT </s>
 <s> JJ </s>
@@ -5230,7 +5033,6 @@
 <s> -NONE- </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> , </s>
@@ -5270,7 +5072,6 @@
 <s> NNP </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> -NONE- </s>
 <s> VBN </s>
 <s> -NONE- </s>
@@ -5295,7 +5096,6 @@
 <s> JJ </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> NNP </s>
 <s> NNP </s>
@@ -5309,7 +5109,6 @@
 <s> CD </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> NNP </s>
 <s> NNP </s>
@@ -5368,14 +5167,12 @@
 <s> , </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> VBD </s>
 <s> IN </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> , </s>
@@ -5401,7 +5198,6 @@
 <s> IN </s>
 <s> CD </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> NNP </s>
@@ -5426,7 +5222,6 @@
 <s> JJ </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> PRP </s>
 <s> MD </s>
 <s> VB </s>
@@ -5443,7 +5238,6 @@
 <s> NN </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> VBD </s>
@@ -5456,7 +5250,6 @@
 <s> NN </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> NNP </s>
@@ -5473,7 +5266,6 @@
 <s> DT </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> PRP </s>
 <s> VBD </s>
 <s> RB </s>
@@ -5487,7 +5279,6 @@
 <s> NNP </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> NNP </s>
@@ -5507,7 +5298,6 @@
 <s> NNP </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> RB </s>
 <s> PRP </s>
 <s> VBD </s>
@@ -5517,7 +5307,6 @@
 <s> NNP </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> NNP </s>
@@ -5534,14 +5323,12 @@
 <s> NNP </s>
 <s> NNPS </s>
 <s> . </s>
-<s>  </s>
 <s> PRP </s>
 <s> VBD </s>
 <s> RB </s>
 <s> NN </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NNP </s>
 <s> , </s>
@@ -5589,7 +5376,6 @@
 <s> JJ </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> RB </s>
 <s> , </s>
 <s> CD </s>
@@ -5631,7 +5417,6 @@
 <s> -NONE- </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> DT </s>
 <s> JJ </s>
@@ -5664,7 +5449,6 @@
 <s> JJ </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> VBD </s>
@@ -5694,7 +5478,6 @@
 <s> JJ </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> PRP </s>
 <s> VBD </s>
 <s> -NONE- </s>
@@ -5736,7 +5519,6 @@
 <s> NNS </s>
 <s> . </s>
 <s> '' </s>
-<s>  </s>
 <s> NNP </s>
 <s> NN </s>
 <s> NNS </s>
@@ -5778,7 +5560,6 @@
 <s> NNS </s>
 <s> RB </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> VBD </s>
@@ -5809,7 +5590,6 @@
 <s> NN </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> RB </s>
 <s> VBZ </s>
@@ -5830,7 +5610,6 @@
 <s> -NONE- </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> VBZ </s>
 <s> VBN </s>
@@ -5869,7 +5648,6 @@
 <s> NNS </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NN </s>
 <s> MD </s>
@@ -5892,7 +5670,6 @@
 <s> PRP$ </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> , </s>
@@ -5934,7 +5711,6 @@
 <s> -NONE- </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> CD </s>
 <s> NNS </s>
@@ -5947,7 +5723,6 @@
 <s> , </s>
 <s> RB </s>
 <s> . </s>
-<s>  </s>
 <s> PRP </s>
 <s> MD </s>
 <s> VB </s>
@@ -5962,7 +5737,6 @@
 <s> JJ </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NNS </s>
 <s> : </s>
@@ -6008,7 +5782,6 @@
 <s> '' </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> , </s>
@@ -6061,7 +5834,6 @@
 <s> NNP </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> `` </s>
 <s> WP </s>
 <s> DT </s>
@@ -6081,7 +5853,6 @@
 <s> VBD </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> PRP </s>
 <s> VBD </s>
 <s> -NONE- </s>
@@ -6115,7 +5886,6 @@
 <s> NN </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> VBD </s>
@@ -6139,7 +5909,6 @@
 <s> NNP </s>
 <s> . </s>
 <s> '' </s>
-<s>  </s>
 <s> PRP </s>
 <s> VBD </s>
 <s> RB </s>
@@ -6166,7 +5935,6 @@
 <s> IN </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> CD </s>
 <s> NN </s>
@@ -6188,7 +5956,6 @@
 <s> NNP </s>
 <s> CD </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> RB </s>
 <s> , </s>
@@ -6217,7 +5984,6 @@
 <s> DT </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> VBD </s>
 <s> -NONE- </s>
@@ -6245,7 +6011,6 @@
 <s> VBG </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NN </s>
 <s> IN </s>
@@ -6279,7 +6044,6 @@
 <s> NN </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NNP </s>
 <s> NNP </s>
@@ -6296,7 +6060,6 @@
 <s> JJ </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> `` </s>
 <s> NNP </s>
 <s> VBZ </s>
@@ -6328,7 +6091,6 @@
 <s> NNP </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> VBD </s>
@@ -6342,7 +6104,6 @@
 <s> NNP </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> JJ </s>
 <s> NN </s>
 <s> NNP </s>
@@ -6361,7 +6122,6 @@
 <s> IN </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> RB </s>
@@ -6405,7 +6165,6 @@
 <s> -NONE- </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> CC </s>
 <s> PRP </s>
 <s> VBZ </s>
@@ -6422,7 +6181,6 @@
 <s> VBN </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> -LRB- </s>
 <s> IN </s>
 <s> PRP$ </s>
@@ -6451,7 +6209,6 @@
 <s> NN </s>
 <s> . </s>
 <s> -RRB- </s>
-<s>  </s>
 <s> CD </s>
 <s> NNS </s>
 <s> WDT </s>
@@ -6468,7 +6225,6 @@
 <s> IN </s>
 <s> CD </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NN </s>
 <s> DT </s>
@@ -6484,7 +6240,6 @@
 <s> TO </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NNS </s>
 <s> VBD </s>
@@ -6494,7 +6249,6 @@
 <s> POS </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> NNS </s>
@@ -6517,7 +6271,6 @@
 <s> IN </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> CC </s>
 <s> NNP </s>
 <s> NNP </s>
@@ -6552,7 +6305,6 @@
 <s> NNP </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> NN </s>
 <s> , </s>
@@ -6566,7 +6318,6 @@
 <s> CD </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> -NONE- </s>
 <s> JJ </s>
 <s> IN </s>
@@ -6590,7 +6341,6 @@
 <s> CC </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> JJ </s>
 <s> NN </s>
 <s> NNS </s>
@@ -6602,7 +6352,6 @@
 <s> IN </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> CC </s>
 <s> DT </s>
 <s> JJ </s>
@@ -6636,7 +6385,6 @@
 <s> PRP$ </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> JJ </s>
 <s> NNS </s>
 <s> VBP </s>
@@ -6657,7 +6405,6 @@
 <s> CD </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> EX </s>
 <s> VBD </s>
 <s> JJ </s>
@@ -6665,7 +6412,6 @@
 <s> NN </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> CC </s>
@@ -6699,7 +6445,6 @@
 <s> IN </s>
 <s> CD </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> NNP </s>
@@ -6722,7 +6467,6 @@
 <s> IN </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> CC </s>
@@ -6750,7 +6494,6 @@
 <s> DT </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> , </s>
 <s> DT </s>
@@ -6776,7 +6519,6 @@
 <s> DT </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> NN </s>
 <s> , </s>
 <s> NN </s>
@@ -6790,7 +6532,6 @@
 <s> -NONE- </s>
 <s> JJ </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> CC </s>
@@ -6816,7 +6557,6 @@
 <s> CD </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> VBZ </s>
 <s> DT </s>
@@ -6833,7 +6573,6 @@
 <s> NNP </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> VBD </s>
 <s> -NONE- </s>
@@ -6858,7 +6597,6 @@
 <s> CD </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NN </s>
 <s> , </s>
@@ -6888,7 +6626,6 @@
 <s> NN </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> NN </s>
 <s> NN </s>
 <s> IN </s>
@@ -6938,7 +6675,6 @@
 <s> IN </s>
 <s> CD </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> NNP </s>
@@ -6963,7 +6699,6 @@
 <s> JJ </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> VBD </s>
 <s> -NONE- </s>
@@ -6974,7 +6709,6 @@
 <s> NN </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> NN </s>
 <s> MD </s>
 <s> VB </s>
@@ -6990,7 +6724,6 @@
 <s> DT </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NN </s>
 <s> VBZ </s>
@@ -7000,7 +6733,6 @@
 <s> CD </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> NNS </s>
 <s> IN </s>
 <s> DT </s>
@@ -7012,7 +6744,6 @@
 <s> CD </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NNP </s>
 <s> CC </s>
@@ -7039,7 +6770,6 @@
 <s> JJ </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> NN </s>
 <s> VBD </s>
 <s> -NONE- </s>
@@ -7071,7 +6801,6 @@
 <s> JJ </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> NNP </s>
@@ -7109,7 +6838,6 @@
 <s> JJ </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> VBG </s>
 <s> DT </s>
 <s> NN </s>
@@ -7147,7 +6875,6 @@
 <s> JJ </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NN </s>
 <s> IN </s>
@@ -7160,7 +6887,6 @@
 <s> DT </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NNP </s>
 <s> NNP </s>
@@ -7202,7 +6928,6 @@
 <s> NNP </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NN </s>
 <s> VBD </s>
@@ -7231,7 +6956,6 @@
 <s> VBG </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> RB </s>
 <s> , </s>
 <s> NN </s>
@@ -7243,7 +6967,6 @@
 <s> JJ </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> VBD </s>
 <s> VBN </s>
@@ -7264,7 +6987,6 @@
 <s> NN </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NNP </s>
 <s> NNP </s>
@@ -7314,7 +7036,6 @@
 <s> NNPS </s>
 <s> . </s>
 <s> '' </s>
-<s>  </s>
 <s> NNP </s>
 <s> VBZ </s>
 <s> DT </s>
@@ -7347,7 +7068,6 @@
 <s> NN </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NN </s>
 <s> NNS </s>
@@ -7368,7 +7088,6 @@
 <s> POS </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> NNS </s>
 <s> IN </s>
 <s> DT </s>
@@ -7422,7 +7141,6 @@
 <s> NNP </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> NNP </s>
@@ -7460,7 +7178,6 @@
 <s> -NONE- </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> MD </s>
@@ -7495,7 +7212,6 @@
 <s> -NONE- </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> , </s>
@@ -7509,7 +7225,6 @@
 <s> NNP </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> JJ </s>
 <s> NN </s>
@@ -7532,7 +7247,6 @@
 <s> DT </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NN </s>
 <s> VBZ </s>
@@ -7554,7 +7268,6 @@
 <s> NNS </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> RB </s>
 <s> VBD </s>
@@ -7587,7 +7300,6 @@
 <s> -NONE- </s>
 <s> -RRB- </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> DT </s>
 <s> NNP </s>
@@ -7607,7 +7319,6 @@
 <s> CD </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> , </s>
@@ -7638,7 +7349,6 @@
 <s> POS </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> NNS </s>
 <s> VBD </s>
 <s> -NONE- </s>
@@ -7658,7 +7368,6 @@
 <s> DT </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> PRP </s>
 <s> VBP </s>
 <s> PRP </s>
@@ -7669,7 +7378,6 @@
 <s> DT </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NN </s>
 <s> VBD </s>
@@ -7694,7 +7402,6 @@
 <s> NN </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> PRP </s>
 <s> CC </s>
@@ -7707,7 +7414,6 @@
 <s> IN </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> VBD </s>
 <s> -NONE- </s>
@@ -7729,7 +7435,6 @@
 <s> PRP$ </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> , </s>
@@ -7753,7 +7458,6 @@
 <s> NN </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> JJ </s>
 <s> NNS </s>
 <s> RB </s>
@@ -7782,7 +7486,6 @@
 <s> -NONE- </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NNS </s>
 <s> VBP </s>
@@ -7814,7 +7517,6 @@
 <s> NN </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> PRP </s>
 <s> VBD </s>
 <s> -NONE- </s>
@@ -7833,7 +7535,6 @@
 <s> JJ </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NN </s>
 <s> VBD </s>
@@ -7845,7 +7546,6 @@
 <s> NNP </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> JJR </s>
 <s> DT </s>
 <s> NN </s>
@@ -7866,7 +7566,6 @@
 <s> JJ </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NN </s>
 <s> VBD </s>
@@ -7883,7 +7582,6 @@
 <s> NN </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> JJS </s>
 <s> CD </s>
@@ -7908,7 +7606,6 @@
 <s> NNPS </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> JJ </s>
 <s> , </s>
@@ -7944,7 +7641,6 @@
 <s> JJ </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> JJ </s>
 <s> , </s>
 <s> PRP </s>
@@ -7983,7 +7679,6 @@
 <s> JJR </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> JJ </s>
 <s> , </s>
 <s> PRP </s>
@@ -8003,7 +7698,6 @@
 <s> IN </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> -NONE- </s>
 <s> VBG </s>
@@ -8034,7 +7728,6 @@
 <s> NNP </s>
 <s> . </s>
 <s> '' </s>
-<s>  </s>
 <s> JJ </s>
 <s> NNS </s>
 <s> VBP </s>
@@ -8070,7 +7763,6 @@
 <s> JJ </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> PRP </s>
 <s> RB </s>
 <s> VBP </s>
@@ -8114,7 +7806,6 @@
 <s> VBN </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> NNP </s>
@@ -8142,7 +7833,6 @@
 <s> CD </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> VBD </s>
@@ -8186,7 +7876,6 @@
 <s> NN </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NN </s>
 <s> VBZ </s>
@@ -8224,7 +7913,6 @@
 <s> PRP$ </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> JJ </s>
 <s> NN </s>
 <s> NN </s>
@@ -8266,7 +7954,6 @@
 <s> DT </s>
 <s> NNPS </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NN </s>
 <s> , </s>
@@ -8293,7 +7980,6 @@
 <s> IN </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> NN </s>
 <s> RB </s>
 <s> VBZ </s>
@@ -8307,7 +7993,6 @@
 <s> NNS </s>
 <s> JJ </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NN </s>
 <s> VBZ </s>
@@ -8324,7 +8009,6 @@
 <s> DT </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> POS </s>
 <s> NNS </s>
@@ -8362,7 +8046,6 @@
 <s> -NONE- </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NN </s>
 <s> VBZ </s>
@@ -8372,7 +8055,6 @@
 <s> JJ </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> JJ </s>
 <s> NN </s>
@@ -8401,7 +8083,6 @@
 <s> NN </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NN </s>
 <s> VBZ </s>
@@ -8426,7 +8107,6 @@
 <s> CD </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> -NONE- </s>
 <s> VB </s>
 <s> DT </s>
@@ -8435,7 +8115,6 @@
 <s> DT </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> PRP </s>
 <s> VBZ </s>
 <s> DT </s>
@@ -8469,7 +8148,6 @@
 <s> JJ </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> RB </s>
 <s> JJR </s>
 <s> IN </s>
@@ -8510,7 +8188,6 @@
 <s> NN </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NN </s>
 <s> RB </s>
@@ -8523,7 +8200,6 @@
 <s> TO </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> JJ </s>
 <s> NN </s>
 <s> , </s>
@@ -8565,12 +8241,10 @@
 <s> RB </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> JJ </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> `` </s>
 <s> NN </s>
 <s> VBZ </s>
@@ -8601,7 +8275,6 @@
 <s> , </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> JJ </s>
 <s> NN </s>
@@ -8634,7 +8307,6 @@
 <s> JJ </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> PRP </s>
 <s> VBD </s>
 <s> IN </s>
@@ -8644,7 +8316,6 @@
 <s> CD </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> JJ </s>
 <s> JJ </s>
@@ -8675,7 +8346,6 @@
 <s> VBP </s>
 <s> RB </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NN </s>
 <s> VBZ </s>
@@ -8704,7 +8374,6 @@
 <s> CC </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NNS </s>
 <s> RB </s>
@@ -8717,7 +8386,6 @@
 <s> IN </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> `` </s>
 <s> NNS </s>
 <s> VBP </s>
@@ -8757,7 +8425,6 @@
 <s> NNP </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> DT </s>
 <s> DT </s>
@@ -8768,7 +8435,6 @@
 <s> JJ </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> JJ </s>
 <s> NNS </s>
@@ -8803,7 +8469,6 @@
 <s> VB </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> CC </s>
 <s> DT </s>
 <s> NNS </s>
@@ -8819,7 +8484,6 @@
 <s> VB </s>
 <s> PRP </s>
 <s> . </s>
-<s>  </s>
 <s> JJ </s>
 <s> NNS </s>
 <s> RB </s>
@@ -8837,7 +8501,6 @@
 <s> JJ </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> CC </s>
 <s> JJ </s>
 <s> VBG </s>
@@ -8855,7 +8518,6 @@
 <s> CC </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> NN </s>
 <s> NNS </s>
 <s> VBP </s>
@@ -8883,7 +8545,6 @@
 <s> NNS </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> CC </s>
 <s> PRP </s>
 <s> VBZ </s>
@@ -8896,7 +8557,6 @@
 <s> VBN </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> JJ </s>
 <s> CC </s>
 <s> NN </s>
@@ -8906,7 +8566,6 @@
 <s> DT </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NN </s>
 <s> : </s>
@@ -8925,7 +8584,6 @@
 <s> JJR </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> WRB </s>
 <s> DT </s>
 <s> NN </s>
@@ -8956,7 +8614,6 @@
 <s> CD </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> CC </s>
 <s> JJS </s>
 <s> NN </s>
@@ -8973,7 +8630,6 @@
 <s> CD </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> WP </s>
 <s> -NONE- </s>
 <s> -NONE- </s>
@@ -9004,7 +8660,6 @@
 <s> JJ </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> -NONE- </s>
 <s> VBG </s>
@@ -9038,7 +8693,6 @@
 <s> CD </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NN </s>
 <s> : </s>
@@ -9065,7 +8719,6 @@
 <s> VBP </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> PRP </s>
 <s> VBZ </s>
 <s> RB </s>
@@ -9101,7 +8754,6 @@
 <s> -NONE- </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> CC </s>
 <s> DT </s>
 <s> JJ </s>
@@ -9121,7 +8773,6 @@
 <s> NN </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> PRP </s>
 <s> VBZ </s>
 <s> VBN </s>
@@ -9144,7 +8795,6 @@
 <s> JJ </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> CC </s>
 <s> JJ </s>
 <s> JJ </s>
@@ -9166,7 +8816,6 @@
 <s> JJ </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> `` </s>
 <s> PRP </s>
 <s> VBP </s>
@@ -9188,7 +8837,6 @@
 <s> NNP </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> RB </s>
 <s> VBN </s>
@@ -9209,7 +8857,6 @@
 <s> -NONE- </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> JJ </s>
 <s> NNP </s>
@@ -9236,7 +8883,6 @@
 <s> NN </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> `` </s>
 <s> EX </s>
 <s> MD </s>
@@ -9259,7 +8905,6 @@
 <s> VBZ </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> RB </s>
 <s> , </s>
 <s> JJ </s>
@@ -9281,7 +8926,6 @@
 <s> NN </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> PRP </s>
 <s> VBP </s>
 <s> IN </s>
@@ -9315,7 +8959,6 @@
 <s> DT </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NN </s>
 <s> NNS </s>
@@ -9330,7 +8973,6 @@
 <s> DT </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> NNS </s>
 <s> WP </s>
@@ -9384,7 +9026,6 @@
 <s> VB </s>
 <s> RB </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NNP </s>
 <s> CC </s>
@@ -9422,7 +9063,6 @@
 <s> -NONE- </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> DT </s>
 <s> NNS </s>
@@ -9448,7 +9088,6 @@
 <s> NNP </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> RB </s>
 <s> , </s>
 <s> IN </s>
@@ -9479,7 +9118,6 @@
 <s> MD </s>
 <s> VB </s>
 <s> . </s>
-<s>  </s>
 <s> JJ </s>
 <s> IN </s>
 <s> DT </s>
@@ -9503,7 +9141,6 @@
 <s> NNP </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NN </s>
 <s> IN </s>
@@ -9523,7 +9160,6 @@
 <s> IN </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> CC </s>
 <s> DT </s>
 <s> JJ </s>
@@ -9571,7 +9207,6 @@
 <s> CD </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> DT </s>
 <s> CD </s>
@@ -9619,7 +9254,6 @@
 <s> NNP </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NNP </s>
 <s> VBZ </s>
@@ -9627,7 +9261,6 @@
 <s> DT </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> VBZ </s>
 <s> VBN </s>
@@ -9645,7 +9278,6 @@
 <s> NN </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NNP </s>
 <s> NNP </s>
@@ -9663,7 +9295,6 @@
 <s> NNP </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> CC </s>
 <s> DT </s>
 <s> NNS </s>
@@ -9700,7 +9331,6 @@
 <s> JJ </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> DT </s>
 <s> NN </s>
@@ -9733,7 +9363,6 @@
 <s> IN </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> RB </s>
 <s> , </s>
 <s> DT </s>
@@ -9761,7 +9390,6 @@
 <s> JJ </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> PRP$ </s>
 <s> NN </s>
 <s> VBD </s>
@@ -9777,7 +9405,6 @@
 <s> IN </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NN </s>
 <s> IN </s>
@@ -9792,7 +9419,6 @@
 <s> RB </s>
 <s> VBG </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> VBG </s>
 <s> NNS </s>
@@ -9813,7 +9439,6 @@
 <s> IN </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> NNS </s>
 <s> VBD </s>
 <s> $ </s>
@@ -9845,7 +9470,6 @@
 <s> -NONE- </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> RB </s>
 <s> IN </s>
@@ -9870,7 +9494,6 @@
 <s> CD </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> DT </s>
 <s> JJ </s>
@@ -9907,7 +9530,6 @@
 <s> IN </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> JJ </s>
 <s> NN </s>
 <s> NN </s>
@@ -9921,7 +9543,6 @@
 <s> VBD </s>
 <s> RB </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NNS </s>
 <s> IN </s>
@@ -9947,7 +9568,6 @@
 <s> IN </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> , </s>
@@ -9975,7 +9595,6 @@
 <s> VB </s>
 <s> RP </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> DT </s>
 <s> JJ </s>
@@ -9999,7 +9618,6 @@
 <s> NN </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> `` </s>
 <s> WP </s>
 <s> NN </s>
@@ -10019,7 +9637,6 @@
 <s> VBD </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> `` </s>
 <s> PRP </s>
 <s> VBP </s>
@@ -10027,7 +9644,6 @@
 <s> NN </s>
 <s> . </s>
 <s> '' </s>
-<s>  </s>
 <s> IN </s>
 <s> JJS </s>
 <s> NNS </s>
@@ -10047,14 +9663,12 @@
 <s> IN </s>
 <s> DT </s>
 <s> . </s>
-<s>  </s>
 <s> NN </s>
 <s> NNS </s>
 <s> VBD </s>
 <s> IN </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> RB </s>
 <s> VBD </s>
 <s> -NONE- </s>
@@ -10067,7 +9681,6 @@
 <s> JJ </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> CC </s>
 <s> JJ </s>
 <s> NNS </s>
@@ -10085,7 +9698,6 @@
 <s> IN </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> PRP </s>
 <s> VBP </s>
 <s> DT </s>
@@ -10104,7 +9716,6 @@
 <s> DT </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> NNS </s>
 <s> VBP </s>
 <s> RB </s>
@@ -10117,7 +9728,6 @@
 <s> IN </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> NNS </s>
 <s> VBP </s>
 <s> -NONE- </s>
@@ -10138,7 +9748,6 @@
 <s> DT </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> CC </s>
 <s> NN </s>
 <s> POS </s>
@@ -10170,7 +9779,6 @@
 <s> NNP </s>
 <s> CD </s>
 <s> . </s>
-<s>  </s>
 <s> `` </s>
 <s> DT </s>
 <s> VBZ </s>
@@ -10199,7 +9807,6 @@
 <s> NNP </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> `` </s>
 <s> PRP </s>
 <s> VBP </s>
@@ -10213,7 +9820,6 @@
 <s> JJ </s>
 <s> . </s>
 <s> '' </s>
-<s>  </s>
 <s> DT </s>
 <s> JJ </s>
 <s> NN </s>
@@ -10232,7 +9838,6 @@
 <s> DT </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NN </s>
 <s> VBD </s>
@@ -10271,7 +9876,6 @@
 <s> NN </s>
 <s> RB </s>
 <s> . </s>
-<s>  </s>
 <s> NNS </s>
 <s> IN </s>
 <s> JJ </s>
@@ -10294,7 +9898,6 @@
 <s> NN </s>
 <s> RB </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NN </s>
 <s> RB </s>
@@ -10308,7 +9911,6 @@
 <s> IN </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> NN </s>
 <s> NNS </s>
 <s> VBD </s>
@@ -10327,7 +9929,6 @@
 <s> IN </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> NNS </s>
 <s> VBP </s>
 <s> VBN </s>
@@ -10343,7 +9944,6 @@
 <s> -NONE- </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> NNS </s>
 <s> POS </s>
 <s> NNS </s>
@@ -10373,7 +9973,6 @@
 <s> NNS </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> VBG </s>
 <s> DT </s>
 <s> NNS </s>
@@ -10383,7 +9982,6 @@
 <s> CD </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> PRP$ </s>
 <s> NN </s>
@@ -10426,7 +10024,6 @@
 <s> CD </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> , </s>
@@ -10460,7 +10057,6 @@
 <s> JJ </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> NN </s>
 <s> IN </s>
 <s> JJ </s>
@@ -10486,7 +10082,6 @@
 <s> VBG </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NN </s>
 <s> NN </s>
@@ -10499,7 +10094,6 @@
 <s> CD </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> RB </s>
 <s> -NONE- </s>
 <s> VBG </s>
@@ -10519,7 +10113,6 @@
 <s> IN </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> DT </s>
 <s> JJ </s>
@@ -10542,7 +10135,6 @@
 <s> POS </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NN </s>
 <s> POS </s>
@@ -10567,7 +10159,6 @@
 <s> NNP </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> VBD </s>
 <s> DT </s>
@@ -10582,7 +10173,6 @@
 <s> IN </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NN </s>
 <s> VBZ </s>
@@ -10603,7 +10193,6 @@
 <s> -NONE- </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NN </s>
 <s> VBZ </s>
@@ -10619,7 +10208,6 @@
 <s> RB </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> DT </s>
 <s> NN </s>
@@ -10669,7 +10257,6 @@
 <s> , </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> PRP </s>
 <s> VBD </s>
 <s> -NONE- </s>
@@ -10699,7 +10286,6 @@
 <s> IN </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NN </s>
 <s> VBD </s>
@@ -10721,7 +10307,6 @@
 <s> VB </s>
 <s> VBG </s>
 <s> . </s>
-<s>  </s>
 <s> RB </s>
 <s> CD </s>
 <s> NN </s>
@@ -10743,7 +10328,6 @@
 <s> IN </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> CC </s>
 <s> CD </s>
 <s> NN </s>
@@ -10765,7 +10349,6 @@
 <s> NN </s>
 <s> RB </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NN </s>
 <s> NNS </s>
@@ -10780,7 +10363,6 @@
 <s> IN </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> DT </s>
 <s> JJ </s>
@@ -10801,7 +10383,6 @@
 <s> -NONE- </s>
 <s> VBD </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NN </s>
 <s> VBD </s>
@@ -10811,7 +10392,6 @@
 <s> IN </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> PRP </s>
 <s> RB </s>
 <s> VBD </s>
@@ -10837,7 +10417,6 @@
 <s> JJ </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> NNS </s>
 <s> VBP </s>
 <s> DT </s>
@@ -10849,7 +10428,6 @@
 <s> VBP </s>
 <s> VBG </s>
 <s> . </s>
-<s>  </s>
 <s> WRB </s>
 <s> NN </s>
 <s> VBZ </s>
@@ -10871,7 +10449,6 @@
 <s> TO </s>
 <s> VB </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NN </s>
 <s> NNS </s>
@@ -10891,7 +10468,6 @@
 <s> NN </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> IN </s>
 <s> DT </s>
@@ -10919,7 +10495,6 @@
 <s> DT </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> DT </s>
 <s> JJ </s>
@@ -10933,7 +10508,6 @@
 <s> IN </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> PRP </s>
 <s> VBD </s>
 <s> IN </s>
@@ -10969,7 +10543,6 @@
 <s> JJ </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> -NONE- </s>
 <s> VBG </s>
@@ -11010,7 +10583,6 @@
 <s> RB </s>
 <s> . </s>
 <s> '' </s>
-<s>  </s>
 <s> NNS </s>
 <s> VBN </s>
 <s> -NONE- </s>
@@ -11037,7 +10609,6 @@
 <s> NN </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> `` </s>
 <s> PRP </s>
 <s> VBZ </s>
@@ -11059,7 +10630,6 @@
 <s> VBD </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> PRP </s>
 <s> VBD </s>
 <s> IN </s>
@@ -11081,7 +10651,6 @@
 <s> JJ </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> PRP </s>
 <s> VBD </s>
 <s> VBN </s>
@@ -11109,7 +10678,6 @@
 <s> NN </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> IN </s>
@@ -11120,7 +10688,6 @@
 <s> DT </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> RB </s>
 <s> VBP </s>
 <s> -NONE- </s>
@@ -11142,7 +10709,6 @@
 <s> JJ </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> RB </s>
 <s> VBP </s>
 <s> -NONE- </s>
@@ -11162,7 +10728,6 @@
 <s> RB </s>
 <s> VBN </s>
 <s> . </s>
-<s>  </s>
 <s> -NONE- </s>
 <s> VBG </s>
 <s> IN </s>
@@ -11203,7 +10768,6 @@
 <s> IN </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> -NONE- </s>
 <s> VBN </s>
@@ -11223,7 +10787,6 @@
 <s> RB </s>
 <s> JJ </s>
 <s> . </s>
-<s>  </s>
 <s> NNS </s>
 <s> VBP </s>
 <s> NNP </s>
@@ -11241,7 +10804,6 @@
 <s> NNP </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> PRP </s>
 <s> VBP </s>
 <s> NNP </s>
@@ -11253,7 +10815,6 @@
 <s> CC </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> PRP </s>
 <s> VBP </s>
 <s> IN </s>
@@ -11272,12 +10833,10 @@
 <s> JJ </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> VBZ </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> DT </s>
 <s> JJ </s>
@@ -11308,7 +10867,6 @@
 <s> JJ </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> PRP </s>
 <s> -NONE- </s>
 <s> VBZ </s>
@@ -11349,7 +10907,6 @@
 <s> IN </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> `` </s>
 <s> DT </s>
@@ -11382,7 +10939,6 @@
 <s> -NONE- </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> VBZ </s>
 <s> RB </s>
@@ -11406,7 +10962,6 @@
 <s> IN </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> PRP </s>
 <s> VBZ </s>
 <s> JJ </s>
@@ -11414,7 +10969,6 @@
 <s> RB </s>
 <s> JJ </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> JJ </s>
 <s> , </s>
@@ -11453,7 +11007,6 @@
 <s> NNP </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> PRP </s>
 <s> VBZ </s>
 <s> IN </s>
@@ -11475,7 +11028,6 @@
 <s> JJ </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> DT </s>
 <s> NN </s>
@@ -11516,7 +11068,6 @@
 <s> JJ </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> JJ </s>
 <s> NNP </s>
@@ -11528,7 +11079,6 @@
 <s> IN </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> RBR </s>
 <s> JJ </s>
@@ -11567,7 +11117,6 @@
 <s> IN </s>
 <s> CD </s>
 <s> . </s>
-<s>  </s>
 <s> CC </s>
 <s> PRP </s>
 <s> VBZ </s>
@@ -11593,7 +11142,6 @@
 <s> IN </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> PRP$ </s>
 <s> NNS </s>
 <s> VBP </s>
@@ -11612,7 +11160,6 @@
 <s> IN </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> NNP </s>
 <s> NNP </s>
@@ -11660,7 +11207,6 @@
 <s> NN </s>
 <s> . </s>
 <s> '' </s>
-<s>  </s>
 <s> IN </s>
 <s> NNP </s>
 <s> NNP </s>
@@ -11685,7 +11231,6 @@
 <s> NN </s>
 <s> . </s>
 <s> '' </s>
-<s>  </s>
 <s> `` </s>
 <s> NNP </s>
 <s> '' </s>
@@ -11706,7 +11251,6 @@
 <s> IN </s>
 <s> PRP </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NN </s>
 <s> POS </s>
@@ -11724,7 +11268,6 @@
 <s> NN </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> NNS </s>
 <s> RB </s>
 <s> VBD </s>
@@ -11751,7 +11294,6 @@
 <s> IN </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> CC </s>
 <s> JJ </s>
 <s> IN </s>
@@ -11844,7 +11386,6 @@
 <s> DT </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> `` </s>
 <s> PRP </s>
 <s> NNP </s>
@@ -11873,7 +11414,6 @@
 <s> IN </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> DT </s>
 <s> JJ </s>
@@ -11909,7 +11449,6 @@
 <s> IN </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> `` </s>
 <s> NNP </s>
 <s> NNP </s>
@@ -11932,7 +11471,6 @@
 <s> RB </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> PRP </s>
 <s> VBZ </s>
 <s> DT </s>
@@ -11966,7 +11504,6 @@
 <s> DT </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> RB </s>
 <s> JJ </s>
@@ -12028,7 +11565,6 @@
 <s> NN </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> IN </s>
 <s> PRP$ </s>
@@ -12042,7 +11578,6 @@
 <s> DT </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> PRP </s>
 <s> -NONE- </s>
 <s> VBZ </s>
@@ -12105,7 +11640,6 @@
 <s> DT </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> IN </s>
 <s> DT </s>
@@ -12139,7 +11673,6 @@
 <s> DT </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> CC </s>
 <s> NNP </s>
 <s> RB </s>
@@ -12179,7 +11712,6 @@
 <s> IN </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> PRP </s>
 <s> -NONE- </s>
 <s> VBZ </s>
@@ -12192,7 +11724,6 @@
 <s> VBD </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> RB </s>
@@ -12215,7 +11746,6 @@
 <s> -NONE- </s>
 <s> RB </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> , </s>
@@ -12234,7 +11764,6 @@
 <s> CD </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> JJR </s>
 <s> CC </s>
 <s> JJR </s>
@@ -12249,7 +11778,6 @@
 <s> NN </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> NNP </s>
 <s> , </s>
@@ -12281,7 +11809,6 @@
 <s> -NONE- </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> NNS </s>
 <s> CC </s>
 <s> JJ </s>
@@ -12311,7 +11838,6 @@
 <s> -NONE- </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> RB </s>
 <s> VBZ </s>
@@ -12330,7 +11856,6 @@
 <s> NN </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> NNP </s>
 <s> , </s>
@@ -12373,14 +11898,12 @@
 <s> JJ </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> VBZ </s>
 <s> JJ </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> NNP </s>
 <s> , </s>
@@ -12403,7 +11926,6 @@
 <s> VBN </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> VBZ </s>
@@ -12420,7 +11942,6 @@
 <s> VBN </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NN </s>
 <s> NN </s>
@@ -12446,7 +11967,6 @@
 <s> RP </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NN </s>
 <s> IN </s>
@@ -12484,7 +12004,6 @@
 <s> CC </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NN </s>
 <s> VBD </s>
@@ -12514,7 +12033,6 @@
 <s> DT </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> JJR </s>
 <s> IN </s>
 <s> CD </s>
@@ -12551,7 +12069,6 @@
 <s> IN </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NNP </s>
 <s> NN </s>
@@ -12589,7 +12106,6 @@
 <s> IN </s>
 <s> RB </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NN </s>
 <s> , </s>
@@ -12632,7 +12148,6 @@
 <s> JJ </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> JJ </s>
 <s> NN </s>
@@ -12655,7 +12170,6 @@
 <s> JJ </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> VBZ </s>
@@ -12694,7 +12208,6 @@
 <s> -NONE- </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NN </s>
 <s> IN </s>
@@ -12722,7 +12235,6 @@
 <s> DT </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NNP </s>
 <s> IN </s>
@@ -12756,7 +12268,6 @@
 <s> NNP </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NNP </s>
 <s> JJ </s>
@@ -12783,7 +12294,6 @@
 <s> -NONE- </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> PRP </s>
 <s> VBD </s>
 <s> -NONE- </s>
@@ -12809,7 +12319,6 @@
 <s> NN </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> RB </s>
 <s> DT </s>
 <s> NN </s>
@@ -12846,7 +12355,6 @@
 <s> -NONE- </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NN </s>
 <s> VBD </s>
@@ -12874,7 +12382,6 @@
 <s> -NONE- </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> JJ </s>
 <s> NN </s>
@@ -12890,7 +12397,6 @@
 <s> NN </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> JJ </s>
 <s> NN </s>
@@ -12923,7 +12429,6 @@
 <s> NN </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> JJR </s>
 <s> NN </s>
@@ -12954,7 +12459,6 @@
 <s> NNP </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> DT </s>
 <s> NN </s>
@@ -12977,7 +12481,6 @@
 <s> JJ </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NNP </s>
 <s> NN </s>
@@ -13003,7 +12506,6 @@
 <s> IN </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> -NONE- </s>
 <s> VBG </s>
@@ -13039,7 +12541,6 @@
 <s> VBN </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> VBD </s>
@@ -13065,7 +12566,6 @@
 <s> VBN </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> VBD </s>
 <s> IN </s>
@@ -13088,7 +12588,6 @@
 <s> VBN </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> JJ </s>
 <s> NN </s>
@@ -13106,7 +12605,6 @@
 <s> NNP </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NN </s>
 <s> IN </s>
@@ -13131,7 +12629,6 @@
 <s> -NONE- </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> `` </s>
 <s> NNP </s>
 <s> NNP </s>
@@ -13147,7 +12644,6 @@
 <s> IN </s>
 <s> CD </s>
 <s> : </s>
-<s>  </s>
 <s> IN </s>
 <s> NNS </s>
 <s> IN </s>
@@ -13187,7 +12683,6 @@
 <s> -NONE- </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> CC </s>
 <s> DT </s>
 <s> NN </s>
@@ -13216,7 +12711,6 @@
 <s> VBG </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> VBD </s>
@@ -13254,7 +12748,6 @@
 <s> NN </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> JJ </s>
 <s> JJ </s>
@@ -13288,7 +12781,6 @@
 <s> IN </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NNS </s>
 <s> VBP </s>
@@ -13297,7 +12789,6 @@
 <s> , </s>
 <s> CD </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NN </s>
 <s> MD </s>
@@ -13330,7 +12821,6 @@
 <s> TO </s>
 <s> VB </s>
 <s> . </s>
-<s>  </s>
 <s> JJ </s>
 <s> NNS </s>
 <s> IN </s>
@@ -13351,7 +12841,6 @@
 <s> NN </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> VBD </s>
 <s> -NONE- </s>
@@ -13369,7 +12858,6 @@
 <s> DT </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> DT </s>
 <s> NN </s>
@@ -13386,7 +12874,6 @@
 <s> POS </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> VBZ </s>
@@ -13397,7 +12884,6 @@
 <s> TO </s>
 <s> DT </s>
 <s> . </s>
-<s>  </s>
 <s> CC </s>
 <s> PRP </s>
 <s> VBZ </s>
@@ -13429,7 +12915,6 @@
 <s> JJ </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> CD </s>
 <s> , </s>
@@ -13474,7 +12959,6 @@
 <s> DT </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> RB </s>
 <s> , </s>
 <s> CD </s>
@@ -13508,7 +12992,6 @@
 <s> JJ </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> NN </s>
 <s> , </s>
@@ -13530,7 +13013,6 @@
 <s> JJ </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> RB </s>
 <s> MD </s>
 <s> -NONE- </s>
@@ -13543,7 +13025,6 @@
 <s> DT </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> PRP </s>
 <s> VBP </s>
 <s> `` </s>
@@ -13563,7 +13044,6 @@
 <s> IN </s>
 <s> DT </s>
 <s> . </s>
-<s>  </s>
 <s> NN </s>
 <s> NNP </s>
 <s> NNP </s>
@@ -13623,7 +13103,6 @@
 <s> MD </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> RB </s>
 <s> IN </s>
 <s> NNP </s>
@@ -13661,7 +13140,6 @@
 <s> NN </s>
 <s> -RRB- </s>
 <s> . </s>
-<s>  </s>
 <s> -NONE- </s>
 <s> VBN </s>
 <s> -NONE- </s>
@@ -13686,7 +13164,6 @@
 <s> VBP </s>
 <s> JJ </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> NNP </s>
 <s> NNP </s>
@@ -13710,7 +13187,6 @@
 <s> NNS </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NNP </s>
 <s> VBZ </s>
@@ -13736,7 +13212,6 @@
 <s> JJ </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> -LRB- </s>
 <s> DT </s>
 <s> -NONE- </s>
@@ -13769,14 +13244,12 @@
 <s> NN </s>
 <s> . </s>
 <s> -RRB- </s>
-<s>  </s>
 <s> DT </s>
 <s> NNP </s>
 <s> VBZ </s>
 <s> PRP$ </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> PRP </s>
 <s> VBZ </s>
 <s> PRP$ </s>
@@ -13792,7 +13265,6 @@
 <s> TO </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> NN </s>
 <s> PRP </s>
@@ -13807,7 +13279,6 @@
 <s> -NONE- </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> PRP$ </s>
 <s> NN </s>
 <s> , </s>
@@ -13823,14 +13294,12 @@
 <s> VBZ </s>
 <s> JJ </s>
 <s> . </s>
-<s>  </s>
 <s> PRP </s>
 <s> VBZ </s>
 <s> PRP$ </s>
 <s> JJ </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> RB </s>
 <s> , </s>
 <s> RB </s>
@@ -13886,7 +13355,6 @@
 <s> PRP$ </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> JJ </s>
 <s> NN </s>
@@ -13901,7 +13369,6 @@
 <s> DT </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> PRP </s>
 <s> VBZ </s>
 <s> DT </s>
@@ -13924,7 +13391,6 @@
 <s> JJ </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NNS </s>
 <s> IN </s>
@@ -13951,7 +13417,6 @@
 <s> NN </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> -NONE- </s>
 <s> TO </s>
 <s> RBR </s>
@@ -13994,7 +13459,6 @@
 <s> NN </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NN </s>
 <s> NN </s>
@@ -14022,7 +13486,6 @@
 <s> IN </s>
 <s> PRP </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> POS </s>
@@ -14039,7 +13502,6 @@
 <s> NN </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> PRP </s>
 <s> VBZ </s>
 <s> DT </s>
@@ -14064,7 +13526,6 @@
 <s> IN </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NN </s>
 <s> VBZ </s>
@@ -14093,7 +13554,6 @@
 <s> JJ </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> JJ </s>
 <s> NN </s>
@@ -14115,7 +13575,6 @@
 <s> NNP </s>
 <s> . </s>
 <s> '' </s>
-<s>  </s>
 <s> PRP </s>
 <s> VBZ </s>
 <s> VBN </s>
@@ -14150,7 +13609,6 @@
 <s> VB </s>
 <s> JJ </s>
 <s> . </s>
-<s>  </s>
 <s> RB </s>
 <s> DT </s>
 <s> NN </s>
@@ -14188,7 +13646,6 @@
 <s> POS </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> NNP </s>
 <s> VBD </s>
@@ -14218,7 +13675,6 @@
 <s> JJ </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> , </s>
 <s> DT </s>
@@ -14229,7 +13685,6 @@
 <s> PRP$ </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> PRP </s>
 <s> VBD </s>
 <s> DT </s>
@@ -14252,7 +13707,6 @@
 <s> JJ </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> PRP </s>
 <s> VBD </s>
 <s> JJ </s>
@@ -14266,7 +13720,6 @@
 <s> DT </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> PRP$ </s>
 <s> NN </s>
 <s> VBD </s>
@@ -14274,7 +13727,6 @@
 <s> CC </s>
 <s> JJ </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> PRP </s>
 <s> VBD </s>
@@ -14302,7 +13754,6 @@
 <s> PRP$ </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> -NONE- </s>
 <s> VBN </s>
@@ -14337,7 +13788,6 @@
 <s> JJ </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> CC </s>
 <s> PRP </s>
 <s> VBD </s>
@@ -14352,7 +13802,6 @@
 <s> -NONE- </s>
 <s> RP </s>
 <s> . </s>
-<s>  </s>
 <s> EX </s>
 <s> VBZ </s>
 <s> RB </s>
@@ -14379,7 +13828,6 @@
 <s> NNP </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> JJS </s>
 <s> IN </s>
 <s> DT </s>
@@ -14404,7 +13852,6 @@
 <s> VB </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> PRP </s>
 <s> VBP </s>
 <s> DT </s>
@@ -14453,7 +13900,6 @@
 <s> VB </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> : </s>
@@ -14482,7 +13928,6 @@
 <s> PRP$ </s>
 <s> JJS </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> VBD </s>
@@ -14514,7 +13959,6 @@
 <s> CD </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NNS </s>
 <s> VBP </s>
@@ -14554,7 +13998,6 @@
 <s> NNP </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> CD </s>
 <s> JJ </s>
@@ -14578,7 +14021,6 @@
 <s> DT </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> JJ </s>
 <s> NN </s>
 <s> NNS </s>
@@ -14603,7 +14045,6 @@
 <s> JJ </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> NNP </s>
 <s> VBZ </s>
@@ -14623,7 +14064,6 @@
 <s> DT </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> VBZ </s>
 <s> DT </s>
@@ -14649,7 +14089,6 @@
 <s> NN </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NN </s>
 <s> VBZ </s>
@@ -14690,7 +14129,6 @@
 <s> DT </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> IN </s>
 <s> DT </s>
@@ -14736,7 +14174,6 @@
 <s> IN </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> `` </s>
 <s> RB </s>
 <s> , </s>
@@ -14766,7 +14203,6 @@
 <s> RB </s>
 <s> . </s>
 <s> '' </s>
-<s>  </s>
 <s> DT </s>
 <s> NN </s>
 <s> WDT </s>
@@ -14803,7 +14239,6 @@
 <s> JJ </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> `` </s>
 <s> -NONE- </s>
 <s> TO </s>
@@ -14847,7 +14282,6 @@
 <s> VBZ </s>
 <s> JJ </s>
 <s> . </s>
-<s>  </s>
 <s> CC </s>
 <s> , </s>
 <s> IN </s>
@@ -14871,7 +14305,6 @@
 <s> JJ </s>
 <s> . </s>
 <s> '' </s>
-<s>  </s>
 <s> IN </s>
 <s> CD </s>
 <s> , </s>
@@ -14895,7 +14328,6 @@
 <s> NNS </s>
 <s> PRP </s>
 <s> . </s>
-<s>  </s>
 <s> -NONE- </s>
 <s> VB </s>
 <s> DT </s>
@@ -14927,12 +14359,10 @@
 <s> CC </s>
 <s> NNP </s>
 <s> : </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> : </s>
-<s>  </s>
 <s> DT </s>
 <s> NN </s>
 <s> VBZ </s>
@@ -14956,7 +14386,6 @@
 <s> NNP </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> `` </s>
 <s> NNP </s>
 <s> NNP </s>
@@ -14980,7 +14409,6 @@
 <s> NN </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> CC </s>
 <s> RB </s>
 <s> DT </s>
@@ -15016,7 +14444,6 @@
 <s> TO </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> , </s>
@@ -15065,7 +14492,6 @@
 <s> NN </s>
 <s> . </s>
 <s> '' </s>
-<s>  </s>
 <s> `` </s>
 <s> NNP </s>
 <s> NNP </s>
@@ -15089,7 +14515,6 @@
 <s> -NONE- </s>
 <s> . </s>
 <s> '' </s>
-<s>  </s>
 <s> `` </s>
 <s> JJ </s>
 <s> NNS </s>
@@ -15125,7 +14550,6 @@
 <s> VB </s>
 <s> . </s>
 <s> '' </s>
-<s>  </s>
 <s> -NONE- </s>
 <s> VBN </s>
 <s> -NONE- </s>
@@ -15155,7 +14579,6 @@
 <s> PRP$ </s>
 <s> JJ </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NN </s>
 <s> VBZ </s>
@@ -15170,7 +14593,6 @@
 <s> CD </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> `` </s>
 <s> -NONE- </s>
 <s> VB </s>
@@ -15185,7 +14607,6 @@
 <s> DT </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> `` </s>
 <s> NN </s>
 <s> VBZ </s>
@@ -15198,7 +14619,6 @@
 <s> JJ </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> JJ </s>
 <s> VBZ </s>
@@ -15209,7 +14629,6 @@
 <s> JJ </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> NN </s>
 <s> VBZ </s>
 <s> -NONE- </s>
@@ -15217,7 +14636,6 @@
 <s> VBZ </s>
 <s> JJ </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> JJ </s>
 <s> VBZ </s>
@@ -15231,7 +14649,6 @@
 <s> VB </s>
 <s> . </s>
 <s> '' </s>
-<s>  </s>
 <s> `` </s>
 <s> JJ </s>
 <s> NN </s>
@@ -15253,7 +14670,6 @@
 <s> NNP </s>
 <s> . </s>
 <s> '' </s>
-<s>  </s>
 <s> WP </s>
 <s> VBZ </s>
 <s> -NONE- </s>
@@ -15261,13 +14677,11 @@
 <s> DT </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> NN </s>
 <s> : </s>
 <s> IN </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> PRP </s>
 <s> VBZ </s>
 <s> DT </s>
@@ -15285,7 +14699,6 @@
 <s> RB </s>
 <s> JJ </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> VBD </s>
@@ -15323,7 +14736,6 @@
 <s> NN </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> PRP </s>
 <s> VBD </s>
 <s> IN </s>
@@ -15348,7 +14760,6 @@
 <s> IN </s>
 <s> PRP </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NN </s>
 <s> POS </s>
@@ -15375,7 +14786,6 @@
 <s> VBP </s>
 <s> JJ </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NN </s>
 <s> VBZ </s>
@@ -15387,7 +14797,6 @@
 <s> NN </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> CC </s>
 <s> , </s>
 <s> VBZ </s>
@@ -15419,7 +14828,6 @@
 <s> IN </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> CC </s>
 <s> , </s>
 <s> VBP </s>
@@ -15442,7 +14850,6 @@
 <s> VB </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> POS </s>
@@ -15462,7 +14869,6 @@
 <s> JJ </s>
 <s> . </s>
 <s> '' </s>
-<s>  </s>
 <s> DT </s>
 <s> JJ </s>
 <s> NN </s>
@@ -15488,7 +14894,6 @@
 <s> JJ </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> PRP </s>
 <s> VBP </s>
 <s> -NONE- </s>
@@ -15514,10 +14919,8 @@
 <s> NN </s>
 <s> . </s>
 <s> '' </s>
-<s>  </s>
 <s> NNP </s>
 <s> : </s>
-<s>  </s>
 <s> JJ </s>
 <s> NNP </s>
 <s> NNP </s>
@@ -15555,7 +14958,6 @@
 <s> FW </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> DT </s>
 <s> NN </s>
@@ -15590,7 +14992,6 @@
 <s> IN </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> RB </s>
 <s> , </s>
 <s> RB </s>
@@ -15640,7 +15041,6 @@
 <s> NNS </s>
 <s> . </s>
 <s> '' </s>
-<s>  </s>
 <s> DT </s>
 <s> JJ </s>
 <s> : </s>
@@ -15699,7 +15099,6 @@
 <s> IN </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NN </s>
 <s> VBD </s>
@@ -15747,7 +15146,6 @@
 <s> NN </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NNP </s>
 <s> NN </s>
@@ -15773,7 +15171,6 @@
 <s> NN </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NN </s>
 <s> VBZ </s>
@@ -15790,7 +15187,6 @@
 <s> NNS </s>
 <s> . </s>
 <s> '' </s>
-<s>  </s>
 <s> RB </s>
 <s> DT </s>
 <s> NN </s>
@@ -15830,7 +15226,6 @@
 <s> VBN </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> RB </s>
 <s> DT </s>
 <s> JJ </s>
@@ -15861,7 +15256,6 @@
 <s> -NONE- </s>
 <s> . </s>
 <s> '' </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> VBD </s>
@@ -15892,7 +15286,6 @@
 <s> IN </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NN </s>
 <s> PRP </s>
@@ -15925,7 +15318,6 @@
 <s> JJ </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> `` </s>
 <s> NNS </s>
 <s> VBP </s>
@@ -15961,7 +15353,6 @@
 <s> NNP </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> `` </s>
 <s> NNP </s>
 <s> VBZ </s>
@@ -16005,7 +15396,6 @@
 <s> NNP </s>
 <s> . </s>
 <s> '' </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> VBD </s>
@@ -16032,7 +15422,6 @@
 <s> RB </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> NNP </s>
 <s> NN </s>
@@ -16058,11 +15447,9 @@
 <s> NN </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> : </s>
-<s>  </s>
 <s> DT </s>
 <s> NNS </s>
 <s> VBD </s>
@@ -16093,7 +15480,6 @@
 <s> NNP </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> `` </s>
 <s> -NONE- </s>
 <s> VB </s>
@@ -16106,7 +15492,6 @@
 <s> JJ </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> `` </s>
 <s> -NONE- </s>
 <s> VB </s>
@@ -16114,7 +15499,6 @@
 <s> NNP </s>
 <s> . </s>
 <s> '' </s>
-<s>  </s>
 <s> CC </s>
 <s> RB </s>
 <s> DT </s>
@@ -16136,7 +15520,6 @@
 <s> JJ </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> NNS </s>
 <s> IN </s>
 <s> VBN </s>
@@ -16174,7 +15557,6 @@
 <s> NN </s>
 <s> . </s>
 <s> '' </s>
-<s>  </s>
 <s> CC </s>
 <s> DT </s>
 <s> NN </s>
@@ -16185,7 +15567,6 @@
 <s> NN </s>
 <s> VBZ </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> JJ </s>
 <s> NN </s>
@@ -16223,7 +15604,6 @@
 <s> NNP </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> DT </s>
 <s> NN </s>
@@ -16237,7 +15617,6 @@
 <s> DT </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> `` </s>
 <s> WP </s>
 <s> -NONE- </s>
@@ -16252,7 +15631,6 @@
 <s> JJ </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> `` </s>
 <s> NNP </s>
 <s> VBZ </s>
@@ -16287,7 +15665,6 @@
 <s> NN </s>
 <s> . </s>
 <s> '' </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> POS </s>
@@ -16300,7 +15677,6 @@
 <s> POS </s>
 <s> VBZ </s>
 <s> . </s>
-<s>  </s>
 <s> WP </s>
 <s> -NONE- </s>
 <s> VBZ </s>
@@ -16308,7 +15684,6 @@
 <s> DT </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> , </s>
@@ -16340,7 +15715,6 @@
 <s> RB </s>
 <s> JJ </s>
 <s> . </s>
-<s>  </s>
 <s> NNS </s>
 <s> VBD </s>
 <s> VBN </s>
@@ -16372,7 +15746,6 @@
 <s> DT </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> RB </s>
 <s> RB </s>
 <s> , </s>
@@ -16397,7 +15770,6 @@
 <s> POS </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> CC </s>
 <s> PRP </s>
 <s> VBZ </s>
@@ -16407,7 +15779,6 @@
 <s> JJ </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> CD </s>
 <s> , </s>
@@ -16453,7 +15824,6 @@
 <s> NN </s>
 <s> . </s>
 <s> '' </s>
-<s>  </s>
 <s> DT </s>
 <s> NN </s>
 <s> IN </s>
@@ -16481,7 +15851,6 @@
 <s> JJ </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> NNS </s>
 <s> RB </s>
 <s> VBP </s>
@@ -16503,7 +15872,6 @@
 <s> VBN </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> JJ </s>
 <s> NN </s>
@@ -16527,7 +15895,6 @@
 <s> , </s>
 <s> CD </s>
 <s> . </s>
-<s>  </s>
 <s> JJ </s>
 <s> NN </s>
 <s> IN </s>
@@ -16541,7 +15908,6 @@
 <s> JJ </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> NNS </s>
 <s> IN </s>
 <s> NNS </s>
@@ -16574,7 +15940,6 @@
 <s> IN </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> CC </s>
 <s> NNP </s>
 <s> POS </s>
@@ -16594,7 +15959,6 @@
 <s> NN </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NN </s>
 <s> IN </s>
@@ -16638,7 +16002,6 @@
 <s> NNP </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> DT </s>
 <s> JJ </s>
@@ -16659,7 +16022,6 @@
 <s> CD </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> NNP </s>
 <s> , </s>
@@ -16694,7 +16056,6 @@
 <s> DT </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> POS </s>
 <s> NN </s>
@@ -16711,7 +16072,6 @@
 <s> CC </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> POS </s>
 <s> JJ </s>
@@ -16729,7 +16089,6 @@
 <s> DT </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> NNP </s>
 <s> CC </s>
@@ -16750,7 +16109,6 @@
 <s> JJ </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NNS </s>
 <s> , </s>
@@ -16783,7 +16141,6 @@
 <s> NNP </s>
 <s> POS </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> JJ </s>
 <s> NNS </s>
@@ -16803,7 +16160,6 @@
 <s> VB </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> CC </s>
 <s> JJ </s>
 <s> NNS </s>
@@ -16835,7 +16191,6 @@
 <s> NN </s>
 <s> RB </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> IN </s>
 <s> NN </s>
@@ -16855,7 +16210,6 @@
 <s> DT </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> CC </s>
 <s> PRP </s>
 <s> VBZ </s>
@@ -16864,7 +16218,6 @@
 <s> JJ </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> DT </s>
 <s> VBG </s>
@@ -16897,7 +16250,6 @@
 <s> JJ </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> POS </s>
 <s> VBG </s>
@@ -16912,7 +16264,6 @@
 <s> JJ </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> DT </s>
 <s> NN </s>
@@ -16927,7 +16278,6 @@
 <s> IN </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> DT </s>
 <s> NNS </s>
@@ -16958,7 +16308,6 @@
 <s> DT </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> -NONE- </s>
 <s> TO </s>
 <s> VB </s>
@@ -16976,7 +16325,6 @@
 <s> JJ </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NNS </s>
 <s> POS </s>
@@ -17035,7 +16383,6 @@
 <s> IN </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> JJ </s>
 <s> NN </s>
 <s> MD </s>
@@ -17051,7 +16398,6 @@
 <s> JJ </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> CC </s>
 <s> , </s>
 <s> NNS </s>
@@ -17073,7 +16419,6 @@
 <s> NNP </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> RB </s>
 <s> , </s>
 <s> JJ </s>
@@ -17111,7 +16456,6 @@
 <s> NNP </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> NNS </s>
 <s> , </s>
@@ -17140,7 +16484,6 @@
 <s> TO </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> `` </s>
 <s> DT </s>
 <s> NN </s>
@@ -17173,7 +16516,6 @@
 <s> NNP </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> NNS </s>
 <s> IN </s>
 <s> DT </s>
@@ -17193,7 +16535,6 @@
 <s> JJ </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> JJ </s>
 <s> CC </s>
@@ -17228,7 +16569,6 @@
 <s> CC </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> NNS </s>
 <s> MD </s>
 <s> VB </s>
@@ -17273,7 +16613,6 @@
 <s> CC </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> NN </s>
 <s> , </s>
@@ -17317,7 +16656,6 @@
 <s> NNP </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NNP </s>
 <s> NN </s>
@@ -17338,7 +16676,6 @@
 <s> DT </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> `` </s>
 <s> IN </s>
 <s> NNP </s>
@@ -17361,7 +16698,6 @@
 <s> -NONE- </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> `` </s>
 <s> DT </s>
 <s> NNP </s>
@@ -17383,7 +16719,6 @@
 <s> NN </s>
 <s> . </s>
 <s> '' </s>
-<s>  </s>
 <s> CC </s>
 <s> -NONE- </s>
 <s> VBG </s>
@@ -17402,7 +16737,6 @@
 <s> DT </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> RB </s>
 <s> RB </s>
@@ -17438,7 +16772,6 @@
 <s> NNP </s>
 <s> -RRB- </s>
 <s> . </s>
-<s>  </s>
 <s> RB </s>
 <s> , </s>
 <s> DT </s>
@@ -17468,7 +16801,6 @@
 <s> VBZ </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> NNP </s>
 <s> NNS </s>
@@ -17490,7 +16822,6 @@
 <s> IN </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> `` </s>
 <s> EX </s>
 <s> VBZ </s>
@@ -17528,7 +16859,6 @@
 <s> IN </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> `` </s>
 <s> IN </s>
 <s> PRP </s>
@@ -17551,7 +16881,6 @@
 <s> NN </s>
 <s> . </s>
 <s> '' </s>
-<s>  </s>
 <s> DT </s>
 <s> JJ </s>
 <s> NNS </s>
@@ -17579,7 +16908,6 @@
 <s> DT </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NN </s>
 <s> VBZ </s>
@@ -17613,7 +16941,6 @@
 <s> NNP </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> JJ </s>
 <s> NNPS </s>
 <s> VBP </s>
@@ -17628,7 +16955,6 @@
 <s> JJ </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> `` </s>
 <s> DT </s>
 <s> NN </s>
@@ -17650,7 +16976,6 @@
 <s> VBZ </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> PRP$ </s>
 <s> NN </s>
@@ -17682,7 +17007,6 @@
 <s> JJ </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> `` </s>
 <s> PRP </s>
 <s> VBP </s>
@@ -17715,7 +17039,6 @@
 <s> IN </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> MD </s>
@@ -17724,7 +17047,6 @@
 <s> PRP$ </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> -NONE- </s>
 <s> VBG </s>
@@ -17754,7 +17076,6 @@
 <s> JJ </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> PRP </s>
 <s> VBD </s>
 <s> VBN </s>
@@ -17767,7 +17088,6 @@
 <s> VBD </s>
 <s> JJ </s>
 <s> . </s>
-<s>  </s>
 <s> `` </s>
 <s> DT </s>
 <s> NN </s>
@@ -17783,7 +17103,6 @@
 <s> NN </s>
 <s> : </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> DT </s>
 <s> NN </s>
@@ -17798,7 +17117,6 @@
 <s> NNP </s>
 <s> : </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> JJ </s>
 <s> NN </s>
@@ -17823,7 +17141,6 @@
 <s> -NONE- </s>
 <s> . </s>
 <s> '' </s>
-<s>  </s>
 <s> RB </s>
 <s> NN </s>
 <s> IN </s>
@@ -17849,7 +17166,6 @@
 <s> VBG </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> NN </s>
 <s> , </s>
@@ -17869,7 +17185,6 @@
 <s> DT </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NN </s>
 <s> VBD </s>
@@ -17882,7 +17197,6 @@
 <s> DT </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> `` </s>
 <s> PRP$ </s>
 <s> NN </s>
@@ -17907,7 +17221,6 @@
 <s> VBD </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NN </s>
 <s> IN </s>
@@ -17933,7 +17246,6 @@
 <s> DT </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> -NONE- </s>
 <s> VBN </s>
 <s> -NONE- </s>
@@ -17960,7 +17272,6 @@
 <s> NN </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> PRP </s>
 <s> VBD </s>
 <s> VBN </s>
@@ -17981,7 +17292,6 @@
 <s> DT </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> VBD </s>
@@ -18009,7 +17319,6 @@
 <s> NN </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> NNP </s>
 <s> , </s>
@@ -18024,7 +17333,6 @@
 <s> -NONE- </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> PRP$ </s>
 <s> NN </s>
 <s> VBD </s>
@@ -18033,7 +17341,6 @@
 <s> IN </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> PRP$ </s>
 <s> NN </s>
 <s> VBZ </s>
@@ -18043,7 +17350,6 @@
 <s> JJ </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> PRP </s>
 <s> VBD </s>
 <s> DT </s>
@@ -18065,7 +17371,6 @@
 <s> VB </s>
 <s> RB </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> PRP$ </s>
 <s> NN </s>
@@ -18140,7 +17445,6 @@
 <s> JJ </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> POS </s>
@@ -18177,7 +17481,6 @@
 <s> VB </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> CD </s>
 <s> NN </s>
@@ -18200,7 +17503,6 @@
 <s> JJ </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> NNS </s>
 <s> VBD </s>
 <s> IN </s>
@@ -18227,7 +17529,6 @@
 <s> NNP </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NN </s>
 <s> VBD </s>
@@ -18241,7 +17542,6 @@
 <s> JJ </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> `` </s>
 <s> EX </s>
 <s> VBZ </s>
@@ -18275,7 +17575,6 @@
 <s> NNP </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> `` </s>
 <s> RB </s>
 <s> NNS </s>
@@ -18291,7 +17590,6 @@
 <s> NN </s>
 <s> . </s>
 <s> '' </s>
-<s>  </s>
 <s> CC </s>
 <s> -NONE- </s>
 <s> RBS </s>
@@ -18315,7 +17613,6 @@
 <s> DT </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> JJ </s>
 <s> NN </s>
@@ -18350,7 +17647,6 @@
 <s> JJ </s>
 <s> . </s>
 <s> '' </s>
-<s>  </s>
 <s> DT </s>
 <s> NN </s>
 <s> VBZ </s>
@@ -18383,7 +17679,6 @@
 <s> VBN </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> NN </s>
 <s> IN </s>
 <s> JJ </s>
@@ -18400,7 +17695,6 @@
 <s> CC </s>
 <s> RB </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> POS </s>
 <s> NN </s>
@@ -18426,7 +17720,6 @@
 <s> JJ </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> JJ </s>
 <s> NNS </s>
@@ -18444,7 +17737,6 @@
 <s> NN </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> CC </s>
 <s> NNS </s>
 <s> IN </s>
@@ -18456,7 +17748,6 @@
 <s> VBP </s>
 <s> VBG </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NNS </s>
 <s> , </s>
@@ -18487,7 +17778,6 @@
 <s> JJ </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> -NONE- </s>
 <s> VBG </s>
@@ -18525,7 +17815,6 @@
 <s> CC </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> NN </s>
 <s> IN </s>
 <s> NNP </s>
@@ -18547,7 +17836,6 @@
 <s> NN </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> NNS </s>
 <s> VBP </s>
 <s> -NONE- </s>
@@ -18573,7 +17861,6 @@
 <s> NNP </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> DT </s>
 <s> NN </s>
@@ -18607,7 +17894,6 @@
 <s> VB </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> JJ </s>
 <s> NN </s>
 <s> NNS </s>
@@ -18642,7 +17928,6 @@
 <s> DT </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> CC </s>
 <s> NNP </s>
 <s> NNP </s>
@@ -18653,7 +17938,6 @@
 <s> VBG </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> DT </s>
 <s> NNS </s>
@@ -18709,7 +17993,6 @@
 <s> NN </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> NNS </s>
 <s> VBP </s>
 <s> -NONE- </s>
@@ -18728,7 +18011,6 @@
 <s> RB </s>
 <s> RB </s>
 <s> . </s>
-<s>  </s>
 <s> NNPS </s>
 <s> IN </s>
 <s> NNP </s>
@@ -18748,7 +18030,6 @@
 <s> JJ </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> VBZ </s>
 <s> -NONE- </s>
 <s> -NONE- </s>
@@ -18798,7 +18079,6 @@
 <s> -NONE- </s>
 <s> . </s>
 <s> '' </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> , </s>
@@ -18834,7 +18114,6 @@
 <s> JJ </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> RB </s>
 <s> IN </s>
 <s> IN </s>
@@ -18863,7 +18142,6 @@
 <s> JJ </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> POS </s>
@@ -18878,7 +18156,6 @@
 <s> NNP </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> -NONE- </s>
 <s> VBG </s>
 <s> IN </s>
@@ -18927,7 +18204,6 @@
 <s> NNP </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> CC </s>
 <s> IN </s>
 <s> DT </s>
@@ -18948,7 +18224,6 @@
 <s> JJ </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> `` </s>
 <s> PRP </s>
 <s> VBD </s>
@@ -18973,7 +18248,6 @@
 <s> POS </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> `` </s>
 <s> NN </s>
 <s> VBD </s>
@@ -18994,7 +18268,6 @@
 <s> NNS </s>
 <s> . </s>
 <s> '' </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> VBD </s>
@@ -19013,7 +18286,6 @@
 <s> CD </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> PRP$ </s>
 <s> JJ </s>
 <s> NN </s>
@@ -19022,7 +18294,6 @@
 <s> JJ </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> RB </s>
 <s> TO </s>
 <s> PRP$ </s>
@@ -19044,7 +18315,6 @@
 <s> DT </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> RB </s>
 <s> , </s>
 <s> NNP </s>
@@ -19096,7 +18366,6 @@
 <s> NN </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> VBD </s>
@@ -19128,7 +18397,6 @@
 <s> PRP$ </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> CD </s>
 <s> VBD </s>
 <s> JJ </s>
@@ -19152,7 +18420,6 @@
 <s> NN </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> VBD </s>
 <s> NNP </s>
@@ -19181,7 +18448,6 @@
 <s> VB </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> `` </s>
 <s> -NONE- </s>
 <s> VBG </s>
@@ -19210,7 +18476,6 @@
 <s> NN </s>
 <s> . </s>
 <s> `` </s>
-<s>  </s>
 <s> PRP </s>
 <s> VBD </s>
 <s> DT </s>
@@ -19219,7 +18484,6 @@
 <s> PRP$ </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> PRP </s>
 <s> RB </s>
 <s> VBD </s>
@@ -19238,7 +18502,6 @@
 <s> NNS </s>
 <s> . </s>
 <s> '' </s>
-<s>  </s>
 <s> IN </s>
 <s> NNP </s>
 <s> NNP </s>
@@ -19265,7 +18528,6 @@
 <s> NN </s>
 <s> JJ </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> CD </s>
 <s> CC </s>
@@ -19285,7 +18547,6 @@
 <s> NN </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> -NONE- </s>
 <s> JJ </s>
 <s> -NONE- </s>
@@ -19324,7 +18585,6 @@
 <s> DT </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> PRP </s>
 <s> VBD </s>
 <s> NN </s>
@@ -19370,7 +18630,6 @@
 <s> NN </s>
 <s> . </s>
 <s> '' </s>
-<s>  </s>
 <s> `` </s>
 <s> PRP </s>
 <s> VBD </s>
@@ -19410,7 +18669,6 @@
 <s> JJ </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> PRP </s>
 <s> VBZ </s>
 <s> IN </s>
@@ -19433,7 +18691,6 @@
 <s> DT </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> NNP </s>
@@ -19455,7 +18712,6 @@
 <s> IN </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> `` </s>
 <s> PRP </s>
 <s> VBD </s>
@@ -19483,7 +18739,6 @@
 <s> NNP </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> DT </s>
 <s> NN </s>
@@ -19520,7 +18775,6 @@
 <s> NN </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> NNS </s>
 <s> , </s>
@@ -19546,7 +18800,6 @@
 <s> PRP$ </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> `` </s>
 <s> PRP </s>
 <s> RB </s>
@@ -19566,7 +18819,6 @@
 <s> POS </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> `` </s>
 <s> PRP </s>
 <s> MD </s>
@@ -19583,7 +18835,6 @@
 <s> NN </s>
 <s> . </s>
 <s> '' </s>
-<s>  </s>
 <s> DT </s>
 <s> JJ </s>
 <s> NNS </s>
@@ -19601,7 +18852,6 @@
 <s> TO </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> VBZ </s>
@@ -19619,14 +18869,12 @@
 <s> DT </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> NNS </s>
 <s> VBD </s>
 <s> -NONE- </s>
 <s> TO </s>
 <s> VB </s>
 <s> . </s>
-<s>  </s>
 <s> NNS </s>
 <s> VBD </s>
 <s> PRP </s>
@@ -19637,7 +18885,6 @@
 <s> RB </s>
 <s> RB </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> IN </s>
 <s> VBG </s>
@@ -19661,7 +18908,6 @@
 <s> RB </s>
 <s> RBR </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> POS </s>
@@ -19680,7 +18926,6 @@
 <s> NN </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> CC </s>
 <s> DT </s>
 <s> RBS </s>
@@ -19694,7 +18939,6 @@
 <s> IN </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> JJ </s>
 <s> NNS </s>
 <s> IN </s>
@@ -19729,7 +18973,6 @@
 <s> CD </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> -NONE- </s>
 <s> VBG </s>
 <s> DT </s>
@@ -19751,7 +18994,6 @@
 <s> -NONE- </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> CC </s>
 <s> NNS </s>
 <s> IN </s>
@@ -19777,7 +19019,6 @@
 <s> CC </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> NNP </s>
@@ -19815,7 +19056,6 @@
 <s> JJ </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> RB </s>
 <s> , </s>
 <s> NNP </s>
@@ -19833,7 +19073,6 @@
 <s> NN </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> JJ </s>
 <s> NNP </s>
 <s> , </s>
@@ -19872,7 +19111,6 @@
 <s> NNS </s>
 <s> RB </s>
 <s> . </s>
-<s>  </s>
 <s> WRB </s>
 <s> NN </s>
 <s> NNS </s>
@@ -19905,7 +19143,6 @@
 <s> TO </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> VBZ </s>
@@ -19923,7 +19160,6 @@
 <s> VBD </s>
 <s> JJ </s>
 <s> . </s>
-<s>  </s>
 <s> `` </s>
 <s> PRP </s>
 <s> VBD </s>
@@ -19943,7 +19179,6 @@
 <s> VBZ </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> `` </s>
 <s> RB </s>
 <s> CD </s>
@@ -19955,7 +19190,6 @@
 <s> NN </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NN </s>
 <s> VBD </s>
@@ -19973,7 +19207,6 @@
 <s> -NONE- </s>
 <s> . </s>
 <s> '' </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> VBZ </s>
@@ -20012,7 +19245,6 @@
 <s> JJ </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> RB </s>
 <s> , </s>
 <s> PRP </s>
@@ -20044,7 +19276,6 @@
 <s> DT </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> `` </s>
 <s> DT </s>
 <s> NNS </s>
@@ -20057,7 +19288,6 @@
 <s> VBZ </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> `` </s>
 <s> DT </s>
 <s> JJ </s>
@@ -20074,7 +19304,6 @@
 <s> VBP </s>
 <s> JJ </s>
 <s> . </s>
-<s>  </s>
 <s> PRP </s>
 <s> RB </s>
 <s> VBD </s>
@@ -20093,7 +19322,6 @@
 <s> VBD </s>
 <s> PRP </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> JJ </s>
 <s> NN </s>
@@ -20107,7 +19335,6 @@
 <s> NN </s>
 <s> . </s>
 <s> '' </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNS </s>
 <s> CC </s>
@@ -20119,7 +19346,6 @@
 <s> VBZ </s>
 <s> VBG </s>
 <s> . </s>
-<s>  </s>
 <s> PRP </s>
 <s> VBD </s>
 <s> NNS </s>
@@ -20158,7 +19384,6 @@
 <s> -NONE- </s>
 <s> RB </s>
 <s> . </s>
-<s>  </s>
 <s> `` </s>
 <s> DT </s>
 <s> RB </s>
@@ -20202,7 +19427,6 @@
 <s> NNS </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> VBZ </s>
@@ -20230,7 +19454,6 @@
 <s> '' </s>
 <s> NNS </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> VBZ </s>
@@ -20249,7 +19472,6 @@
 <s> VBD </s>
 <s> JJ </s>
 <s> . </s>
-<s>  </s>
 <s> `` </s>
 <s> VBP </s>
 <s> PRP </s>
@@ -20265,19 +19487,16 @@
 <s> VBZ </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> `` </s>
 <s> RB </s>
 <s> RB </s>
 <s> . </s>
-<s>  </s>
 <s> PRP </s>
 <s> VBP </s>
 <s> IN </s>
 <s> DT </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> PRP </s>
 <s> VBP </s>
 <s> -NONE- </s>
@@ -20293,7 +19512,6 @@
 <s> VB </s>
 <s> PRP </s>
 <s> . </s>
-<s>  </s>
 <s> WP </s>
 <s> PRP </s>
 <s> VBD </s>
@@ -20310,7 +19528,6 @@
 <s> NNS </s>
 <s> . </s>
 <s> '' </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> VBZ </s>
@@ -20339,7 +19556,6 @@
 <s> VB </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> PRP </s>
 <s> VBZ </s>
 <s> -NONE- </s>
@@ -20362,12 +19578,10 @@
 <s> NN </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> NNP </s>
 <s> NNP </s>
 <s> VBD </s>
 <s> . </s>
-<s>  </s>
 <s> `` </s>
 <s> PRP </s>
 <s> VBD </s>
@@ -20387,7 +19601,6 @@
 <s> NN </s>
 <s> . </s>
 <s> '' </s>
-<s>  </s>
 <s> PRP </s>
 <s> VBD </s>
 <s> JJ </s>
@@ -20398,7 +19611,6 @@
 <s> VBZ </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> `` </s>
 <s> PRP </s>
 <s> VBD </s>
@@ -20412,7 +19624,6 @@
 <s> PRP </s>
 <s> . </s>
 <s> '' </s>
-<s>  </s>
 <s> TO </s>
 <s> DT </s>
 <s> NN </s>
@@ -20445,7 +19656,6 @@
 <s> JJ </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NN </s>
 <s> NN </s>
@@ -20475,7 +19685,6 @@
 <s> PRP$ </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> JJ </s>
 <s> NNS </s>
 <s> VBD </s>
@@ -20498,7 +19707,6 @@
 <s> VBD </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NN </s>
 <s> VBD </s>
@@ -20525,7 +19733,6 @@
 <s> DT </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> `` </s>
 <s> DT </s>
 <s> NN </s>
@@ -20572,7 +19779,6 @@
 <s> NN </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> NNS </s>
 <s> IN </s>
 <s> DT </s>
@@ -20600,7 +19806,6 @@
 <s> -NONE- </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> DT </s>
 <s> NN </s>
 <s> NN </s>
@@ -20614,7 +19819,6 @@
 <s> NNP </s>
 <s> NNP </s>
 <s> . </s>
-<s>  </s>
 <s> RB </s>
 <s> IN </s>
 <s> IN </s>
@@ -20655,7 +19859,6 @@
 <s> PRP$ </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> CC </s>
 <s> JJ </s>
 <s> NNS </s>
@@ -20669,7 +19872,6 @@
 <s> NN </s>
 <s> NN </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> CD </s>
 <s> NNS </s>
@@ -20681,7 +19883,6 @@
 <s> VBN </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> IN </s>
 <s> NNP </s>
 <s> NNP </s>
@@ -20702,7 +19903,6 @@
 <s> JJ </s>
 <s> -NONE- </s>
 <s> . </s>
-<s>  </s>
 <s> `` </s>
 <s> PRP </s>
 <s> -NONE- </s>

@@ -1,4 +1,3 @@
-from collections import defaultdict
 from collections import Counter
 
 
@@ -75,6 +74,7 @@ def write_to_emissions_file(emissions_file, train_tags_file, train_file):
         for line in f:
             tags.append(line[4:line.index("/") - 2])
     count_tags = Counter(tags)
+    print(count_tags)
 
     #WORD AND TAG
     train = open(train_file)
@@ -85,10 +85,11 @@ def write_to_emissions_file(emissions_file, train_tags_file, train_file):
     for k,v in count_tags.items():
         for i,j in count_word_and_tags.items():
             if k in i:
-            #prints: TAG, WORD_AND_TAG, MLE, LAPLACE
-                mle = j/v
-                laplace = (j+1)/(j+1+N)
+                mle = j / v
+                laplace = (j + 1) / (j + 1 + N)
+                # print(k, " ", i, " ", j, " ", v)
 
+                #prints: TAG, WORD_AND_TAG, MLE, LAPLACE
                 line = str(k) + ", " + str(i) + ", " + str(mle) + ", " + str(laplace) + "\n"
                 emissions.write(line)
 
